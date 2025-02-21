@@ -93,7 +93,7 @@ def load_comments():
     comments = []
     try:
         with open(fileName, "r") as json_file:
-            json_list = list(json_file)[:30]
+            json_list = list(json_file)[:]
     except FileNotFoundError:
         print(f"Error: File {fileName} not found.")
         return comments
