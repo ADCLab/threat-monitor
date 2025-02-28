@@ -58,17 +58,19 @@ function Survey() {
       <h1>Survey</h1>
       <div className="InfoBox">
         <h3>Here's the criteria</h3>
+
         <p>
-          You are a message analysis assistant. Your task is to evaluate whether a given message contains coded language that targets, incites, or supports military action, armed revolt, or civil war against specific people, persons, or organizations. Use the following rating scale for your evaluation:
-          <br />
-          When you receive a message, analyze its content and reply ONLY with the final rating number.
+          As a Message Analysis Assistant, your role is to assess whether a given message contains coded language that may incite or support military actions, armed revolt, or civil unrest targeting specific individuals or groups. Carefully review the message below and determine its level of risk.
+        </p>
+        <p>
+          Use the following rating scale to respond with the final rating number only:
         </p>
         <ul style={{ listStyleType: "none", padding: 0 }}>
-          <li>1: No coded language</li>
-          <li>2: Possible coded language</li>
-          <li>3: Coded language</li>
-          <li>4: Strong coded language</li>
-          <li>5: Extreme coded language</li>
+          <li><strong>1:</strong> No coded language</li>
+          <li><strong>2:</strong> Possible coded language</li>
+          <li><strong>3:</strong> Coded language</li>
+          <li><strong>4:</strong> Strong coded language</li>
+          <li><strong>5:</strong> Extreme coded language</li>
         </ul>
         <h3>Please rate the following message:</h3>
         <textarea
