@@ -1,4 +1,12 @@
+import React, { useState } from 'react';
+import { fetchMessage } from '../utils/ fetchMessage';
 function Survey() {
+  const [text, setText] = useState('');
+  const changeText = () => {
+    const newMessage: string = fetchMessage();
+    setText(newMessage);
+
+  }
 
   const submit = () => {
     console.log("Submitted");
@@ -22,12 +30,16 @@ function Survey() {
       alert("Please select a rating");
       return;
     }
+    console.log("Rank: ", rank);
+
+    changeText();
+
 
     // clear the radio buttons
     for (let i = 0; i < radios.length; i++) {
       (radios[i] as HTMLInputElement).checked = false;
     }
-    console.log("Rank: ", rank);
+
 
   }
   return (
@@ -49,6 +61,7 @@ function Survey() {
           <li>5: Extreme coded language</li>
         </ul>
         <h3>Please rate the following message:</h3>
+        <textarea readOnly={true} value={text} />
       </div>
       <input type="radio" id="1" name="rank" value="1" />
       <label htmlFor="1">1</label>
