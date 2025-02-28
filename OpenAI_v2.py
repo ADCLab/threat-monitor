@@ -1,6 +1,10 @@
 import os
 import json
 import time
+import re
+import ast
+import pprint
+from io import StringIO
 from dotenv import load_dotenv
 from openai import AzureOpenAI
 
@@ -16,6 +20,7 @@ useTokens = True
 fileName = "sampleComments.jsonl"
 sleep_time = 1  # Base sleep time between individual API calls
 
+
 def extract_token_usage(usage_info):
     if usage_info:
         prompt_tokens = getattr(usage_info, "prompt_tokens", 0)
@@ -25,9 +30,17 @@ def extract_token_usage(usage_info):
         prompt_tokens = completion_tokens = total_tokens = 0
     return prompt_tokens, completion_tokens, total_tokens
 
+
 def analyze_message(client, comment):
     if not comment.strip():
-        return "N/A", 0
+        return "N/A", 0, "Empty comment"
+
+    maxLength = 1000
+    maxLengthStop = 2000  # Hard limit: if exceeded, comment is too long
+    if len(comment) > maxLengthStop:
+        return "N/A", 0, "Comment too long"
+    elif len(comment) > maxLength:
+        comment = comment[:maxLength]
     messages = [
         {
             "role": "system",
@@ -48,6 +61,7 @@ def analyze_message(client, comment):
     max_retries = 3
     attempts = 0
     delay = sleep_time
+    last_error = "N/A"
     while attempts < max_retries:
         try:
             response = client.chat.completions.create(
@@ -56,11 +70,11 @@ def analyze_message(client, comment):
             prompt_tokens, completion_tokens, total_tokens = extract_token_usage(
                 getattr(response, "usage", None)
             )
-            print("\n===== Token Usage =====")
-            print(f"Prompt Tokens    : {prompt_tokens}")
-            print(f"Completion Tokens: {completion_tokens}")
-            print(f"Total Tokens     : {total_tokens}")
-            print("=======================\n")
+            print("\n===== Token Usage =====", flush=True)
+            print(f"Prompt Tokens    : {prompt_tokens}", flush=True)
+            print(f"Completion Tokens: {completion_tokens}", flush=True)
+            print(f"Total Tokens     : {total_tokens}", flush=True)
+            print("=======================\n", flush=True)
             if (
                 response.choices
                 and hasattr(response.choices[0], "message")
@@ -68,26 +82,46 @@ def analyze_message(client, comment):
                 and response.choices[0].message.content
             ):
                 rating = response.choices[0].message.content.strip()
+                return rating, total_tokens, "N/A"
             else:
-                print("Warning: Unexpected response format.")
-                rating = "N/A"
-            return rating, total_tokens
+                print("Warning: Unexpected response format.", flush=True)
+                return "N/A", total_tokens, "Unexpected response format."
         except Exception as e:
             error_str = str(e)
+            last_error = error_str
             if "429" in error_str or "Too Many Requests" in error_str:
                 attempts += 1
-                print(f"Rate limit error encountered. Attempt {attempts}/{max_retries}. Retrying in {delay} seconds...")
+                print(
+                    f"Rate limit error encountered. Attempt {attempts}/{max_retries}. Retrying in {delay} seconds...",
+                    flush=True,
+                )
                 time.sleep(delay)
-                delay *= 2  # Exponential backoff
+                delay *= 2
                 continue
             elif "content_filter" in error_str:
-                print("Content filter triggered. Skipping comment with rating N/A.")
-                return "N/A", 0
+                m = re.search(r"('content_filter_result':\s*\{.*\})", error_str)
+                if m:
+                    filter_result_str = m.group(1)
+                    try:
+                        filter_dict = ast.literal_eval(filter_result_str)
+                        output = StringIO()
+                        pprint.pprint(filter_dict, stream=output)
+                        filter_result_str_pretty = output.getvalue()
+                    except Exception:
+                        filter_result_str_pretty = filter_result_str
+                else:
+                    filter_result_str_pretty = error_str
+                print(
+                    "Content filter triggered. Skipping comment with rating N/A.",
+                    flush=True,
+                )
+                return "N/A", 0, filter_result_str_pretty
             else:
-                print(f"An unexpected error occurred: {e}")
-                return "N/A", 0
-    print("Max retries reached. Skipping comment.")
-    return "N/A", 0
+                print(f"An unexpected error occurred: {e}", flush=True)
+                return "N/A", 0, error_str
+    print("Max retries reached. Skipping comment.", flush=True)
+    return "N/A", 0, last_error
+
 
 def load_comments():
     comments = []
@@ -120,7 +154,9 @@ def load_comments():
         comments.append(comment_text)
     return comments
 
+
 def main():
+    start_time = time.time()
     client = AzureOpenAI(
         api_key=api_key,
         api_version="2024-08-01-preview",
@@ -137,14 +173,18 @@ def main():
     try:
         for idx, comment in enumerate(comments, 1):
             print(f"\n----- Processing Comment #{idx} -----")
-            rating, tokens_used = analyze_message(client, comment)
+            rating, tokens_used, error_message = analyze_message(client, comment)
             cumulative_tokens += tokens_used
             results.append(
-                {"rating": rating, "comment": comment, "tokens_used": tokens_used}
+                {
+                    "rating": rating,
+                    "comment": comment,
+                    "tokens_used": tokens_used,
+                    "error_message": error_message,
+                }
             )
             print(f"Rating for Comment #{idx}: {rating}")
             print("------------------------------\n")
-            time.sleep(sleep_time)  # Sleep between calls to avoid rate limiting
     except KeyboardInterrupt:
         print("Process interrupted by user.")
 
@@ -153,9 +193,12 @@ def main():
         print(f"Comment #{idx}:")
         print(f"Rating      : {res['rating']}")
         print(f"Content     : {res['comment']}")
-        print(f"Tokens Used : {res['tokens_used']}\n")
+        print(f"Tokens Used : {res['tokens_used']}")
+        print(f"Error Msg   : {res['error_message']}\n")
     print(f"===== Total Tokens Used: {cumulative_tokens} =====")
     print("=========================\n")
+    elapsed_time = time.time() - start_time
+    print(f"Script runtime: {elapsed_time:.2f} seconds")
 
     try:
         with open("output.txt", "w") as outfile:
@@ -164,11 +207,13 @@ def main():
                 outfile.write(f"Comment #{idx}:\n")
                 outfile.write(f"Rating      : {res['rating']}\n")
                 outfile.write(f"Content     : {res['comment']}\n")
-                outfile.write(f"Tokens Used : {res['tokens_used']}\n\n")
+                outfile.write(f"Tokens Used : {res['tokens_used']}\n")
+                outfile.write(f"Error Msg   : {res['error_message']}\n\n")
             outfile.write(f"===== Total Tokens Used: {cumulative_tokens} =====\n")
+            outfile.write(f"Script runtime: {elapsed_time:.2f} seconds\n")
     except Exception as e:
         print(f"Error writing to output file: {e}")
 
+
 if __name__ == "__main__":
     main()
-

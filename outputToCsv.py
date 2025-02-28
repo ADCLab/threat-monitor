@@ -11,28 +11,30 @@ def parse_comments(file_content):
             rating = lines[i + 1].split(":", 1)[1].strip()
             content = lines[i + 2].split(":", 1)[1].strip()
             tokens = lines[i + 3].split(":", 1)[1].strip()
+            error_msg = lines[i + 4].split(":", 1)[1].strip()
             comments.append(
                 {
                     "Comment ID": comment_id,
                     "Rating": rating,
                     "Content": content,
                     "Tokens Used": tokens,
+                    "Error Message": error_msg,
                 }
             )
-            i += 4
+            i += 5
         else:
             i += 1
     return comments
 
 
 def main():
-    input_file = "testOutput.txt"
+    input_file = "output.txt"
     output_file = "output.csv"
     with open(input_file, "r", encoding="utf-8") as f:
         file_content = f.read()
     comments = parse_comments(file_content)
     with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
-        fieldnames = ["Comment ID", "Rating", "Tokens Used", "Content"]
+        fieldnames = ["Comment ID", "Rating", "Tokens Used", "Content", "Error Message"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for comment in comments:
