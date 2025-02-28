@@ -1,28 +1,23 @@
 import React, { useState } from 'react';
 import { fetchMessage } from '../utils/ fetchMessage';
+
 function Survey() {
   const [text, setText] = useState('');
-  const changeText = () => {
-    const newMessage: string = fetchMessage();
-    setText(newMessage);
 
-  }
+  const changeText = async () => {
+    const newMessage = await fetchMessage();
+    setText("hello");
+  };
 
   const submit = () => {
     console.log("Submitted");
     const radios = document.getElementsByName("rank");
     let rank = 0;
-    // check which radio button is checked
-
-
-
+    // Check which radio button is checked
     for (let i = 0; i < radios.length; i++) {
       if ((radios[i] as HTMLInputElement).checked) {
         rank = parseInt((radios[i] as HTMLInputElement).value);
-
-
         break;
-
       }
     }
 
@@ -34,14 +29,12 @@ function Survey() {
 
     changeText();
 
-
-    // clear the radio buttons
+    // Clear the radio buttons
     for (let i = 0; i < radios.length; i++) {
       (radios[i] as HTMLInputElement).checked = false;
     }
+  };
 
-
-  }
   return (
     <div>
       <h1>Survey</h1>
@@ -49,7 +42,7 @@ function Survey() {
         <h3>Here's the criteria</h3>
         <p>
           You are a message analysis assistant. Your task is to evaluate whether a given message contains coded language that targets, incites, or supports military action, armed revolt, or civil war against specific people, persons, or organizations. Use the following rating scale for your evaluation:
-
+          <br />
           When you receive a message, analyze its content and reply ONLY with the final rating number.
         </p>
 
@@ -77,5 +70,6 @@ function Survey() {
     </div>
   );
 }
+
 export default Survey;
 
