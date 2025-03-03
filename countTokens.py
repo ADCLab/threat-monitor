@@ -1,5 +1,7 @@
+import os
 import json
 import tiktoken
+
 
 
 def count_tokens(messages, model="gpt-4o-mini"):
@@ -22,6 +24,7 @@ def count_tokens(messages, model="gpt-4o-mini"):
     return total_tokens
 
 
+
 def load_comments(fileName):
     """
     Load comments from the given JSONL file.
@@ -30,7 +33,7 @@ def load_comments(fileName):
     """
     comments = []
     with open(fileName, "r", encoding="utf-8") as json_file:
-        json_list = list(json_file)[:]
+        json_list = list(json_file)
     for json_str in json_list:
         result = json.loads(json_str)
         print("\n===== Loaded Comment =====")
@@ -41,12 +44,12 @@ def load_comments(fileName):
         print(f"Text: {comment_text}")
         print("==========================\n")
         comments.append(comment_text)
+
     return comments
 
 
-def main():
-    fileName = "sampleComments.jsonl"
-    comments = load_comments(fileName)
+def process_file(input_file, output_file):
+    comments = load_comments(input_file)
 
     cumulative_tokens = 0
     cumulative_input_cost = 0.0
@@ -66,7 +69,6 @@ def main():
         "When you receive a message, analyze its content and reply ONLY with the final rating number."
     )
 
-    # Set your expected output tokens
     expected_output_tokens = 10
 
     for idx, comment in enumerate(comments, 1):
@@ -96,6 +98,8 @@ def main():
             }
         )
 
+        f"Estimated Output Cost (for {expected_output_tokens} tokens): ${cost_output:.8f}"
+        
         print(f"Tokens for Comment #{idx}: {tokens_used}")
         print(f"Estimated Input Cost: ${cost_input:.8f}")
         print(
@@ -104,14 +108,46 @@ def main():
         print(f"Total Estimated Cost for Comment #{idx}: ${total_cost:.8f}")
         print("------------------------------\n")
 
-    print("Cumulative Tokens for all comments:", cumulative_tokens)
-    print("Cumulative Input Cost: ${:.8f}".format(cumulative_input_cost))
-    print(
-        "Cumulative Output Cost (assuming {} tokens per call): ${:.8f}".format(
-            expected_output_tokens, cumulative_output_cost
-        )
+    output_lines = []
+    output_lines.append("===== Processed Results =====\n")
+    for idx, res in enumerate(results, 1):
+        output_lines.append(f"Comment #{idx}:\n")
+        output_lines.append(f"Rating      : N/A\n")
+        output_lines.append(f"Content     : {res['comment']}\n")
+        output_lines.append(f"Tokens Used : {res['tokens_used']}\n")
+        output_lines.append(f"Cost (Input): ${res['cost_input']:.8f}\n")
+        output_lines.app
+        f"Cumulative Output Cost (assuming {expected_output_tokens} tokens per call): ${cumulative_output_cost:.8f}\n"
     )
-    print("Cumulative Total Estimated Cost:", "${:.8f}".format(cumulative_total_cost))
+    output_lines.append(
+        f"Cumulative Total Estimated Cost: ${cumulative_total_cost:.8f}\n"
+    
+        output_lines.append("------------------------------\n")
+    output_lines.append(f"Cumulative Tokens for all comments: {cumulative_tokens}\n")
+    output_lines.append(f"Cumulative Input Cost: ${cumulative_input_cost:.8f}\n")
+    output_lines.append(
+
+        f"Cumulative Output Cost (assuming {expected_output_tokens} tokens per call): ${cumulative_output_cost:.8f}\n"
+    )
+    output_lines.append(
+        f"Cumulative Total Estimated Cost: ${cumulative_total_cost:.8f}\n"
+    )
+
+    with open(output_file, "w", encoding="utf-8") as outfile:
+        outfile.write("\n".join(output_lines))
+
+
+def main():
+    input_dir = "comments"
+
+    output_dir = os.path.join("results", "comments")
+    os.makedirs(output_dir, exist_ok=True)
+        file_index = f"{i:02d}"
+        input_file = os.path.join(input_dir, f"comments_{file_index}.jsonl")
+        output_file = os.path.join(output_dir, f"output_{file_index}.txt")
+        print(f"Processing file: {input_file}")
+        process_file(input_file, output_file)
+        print(f"Output written to: {output_file}")
 
 
 if __name__ == "__main__":

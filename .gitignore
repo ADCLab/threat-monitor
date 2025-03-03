@@ -1,6 +1,7 @@
 ThreatLevelCoding_v3.docx
 .env
-my-react-app/backend/rankedComments.db
+my-react-app/rankedComments.db
+*.db
 venv
 .venv
 .idea

@@ -7,6 +7,7 @@ import pprint
 from io import StringIO
 from dotenv import load_dotenv
 from openai import AzureOpenAI
+import concurrent.futures
 
 load_dotenv()
 
@@ -17,7 +18,6 @@ if not api_key:
     )
 
 useTokens = True
-fileName = "sampleComments.jsonl"
 sleep_time = 1  # Base sleep time between individual API calls
 
 
@@ -58,7 +58,7 @@ def analyze_message(client, comment):
         },
         {"role": "user", "content": comment},
     ]
-    max_retries = 3
+    max_retries = 5
     attempts = 0
     delay = sleep_time
     last_error = "N/A"
@@ -123,13 +123,13 @@ def analyze_message(client, comment):
     return "N/A", 0, last_error
 
 
-def load_comments():
+def load_comments(input_file):
     comments = []
     try:
-        with open(fileName, "r") as json_file:
-            json_list = list(json_file)[:]
+        with open(input_file, "r") as json_file:
+            json_list = list(json_file)[:100]
     except FileNotFoundError:
-        print(f"Error: File {fileName} not found.")
+        print(f"Error: File {input_file} not found.")
         return comments
     for line_number, json_str in enumerate(json_list, start=1):
         json_str = json_str.strip()
@@ -155,6 +155,53 @@ def load_comments():
     return comments
 
 
+def process_comment(idx, comment, client):
+    print(f"\n----- Processing Comment #{idx} -----")
+    rating, tokens_used, error_message = analyze_message(client, comment)
+    print(f"Rating for Comment #{idx}: {rating}")
+    print("------------------------------\n")
+    return {
+        "rating": rating,
+        "comment": comment,
+        "tokens_used": tokens_used,
+        "error_message": error_message,
+        "index": idx,
+    }
+
+
+def process_file(input_file, output_file, client):
+    comments = load_comments(input_file)
+    if not comments:
+        print(f"No valid comments loaded from {input_file}. Exiting.")
+        return
+    results = []
+    cumulative_tokens = 0
+    max_workers = min(50, len(comments))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_idx = {
+            executor.submit(process_comment, idx, comment, client): idx
+            for idx, comment in enumerate(comments, 1)
+        }
+        for future in concurrent.futures.as_completed(future_to_idx):
+            try:
+                res = future.result()
+                results.append(res)
+                cumulative_tokens += res["tokens_used"]
+            except Exception as e:
+                print(f"An error occurred while processing a comment: {e}", flush=True)
+    results = sorted(results, key=lambda x: x["index"])
+    with open(output_file, "w") as outfile:
+        outfile.write("===== Final Results =====\n")
+        for res in results:
+            outfile.write(f"Comment #{res['index']}:\n")
+            outfile.write(f"Rating      : {res['rating']}\n")
+            outfile.write(f"Content     : {res['comment']}\n")
+            outfile.write(f"Tokens Used : {res['tokens_used']}\n")
+            outfile.write(f"Error Msg   : {res['error_message']}\n\n")
+        outfile.write(f"===== Total Tokens Used: {cumulative_tokens} =====\n")
+    print(f"Finished processing {input_file}. Results written to {output_file}")
+
+
 def main():
     start_time = time.time()
     client = AzureOpenAI(
@@ -162,57 +209,17 @@ def main():
         api_version="2024-08-01-preview",
         azure_endpoint="https://messageanalyzer.openai.azure.com/",
     )
-
-    comments = load_comments()
-    if not comments:
-        print("No valid comments loaded. Exiting.")
-        return
-    results = []
-    cumulative_tokens = 0
-
-    try:
-        for idx, comment in enumerate(comments, 1):
-            print(f"\n----- Processing Comment #{idx} -----")
-            rating, tokens_used, error_message = analyze_message(client, comment)
-            cumulative_tokens += tokens_used
-            results.append(
-                {
-                    "rating": rating,
-                    "comment": comment,
-                    "tokens_used": tokens_used,
-                    "error_message": error_message,
-                }
-            )
-            print(f"Rating for Comment #{idx}: {rating}")
-            print("------------------------------\n")
-    except KeyboardInterrupt:
-        print("Process interrupted by user.")
-
-    print("\n===== Final Results =====")
-    for idx, res in enumerate(results, 1):
-        print(f"Comment #{idx}:")
-        print(f"Rating      : {res['rating']}")
-        print(f"Content     : {res['comment']}")
-        print(f"Tokens Used : {res['tokens_used']}")
-        print(f"Error Msg   : {res['error_message']}\n")
-    print(f"===== Total Tokens Used: {cumulative_tokens} =====")
-    print("=========================\n")
+    input_files = [f"comments/comments_0{i}.jsonl" for i in range(2, 7)]
+    output_dir = "results/comments"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    for input_file in input_files:
+        base = os.path.basename(input_file)
+        num = base.split("_")[-1].split(".")[0]
+        output_file = os.path.join(output_dir, f"output_{num}.txt")
+        process_file(input_file, output_file, client)
     elapsed_time = time.time() - start_time
-    print(f"Script runtime: {elapsed_time:.2f} seconds")
-
-    try:
-        with open("output.txt", "w") as outfile:
-            outfile.write("===== Final Results =====\n")
-            for idx, res in enumerate(results, 1):
-                outfile.write(f"Comment #{idx}:\n")
-                outfile.write(f"Rating      : {res['rating']}\n")
-                outfile.write(f"Content     : {res['comment']}\n")
-                outfile.write(f"Tokens Used : {res['tokens_used']}\n")
-                outfile.write(f"Error Msg   : {res['error_message']}\n\n")
-            outfile.write(f"===== Total Tokens Used: {cumulative_tokens} =====\n")
-            outfile.write(f"Script runtime: {elapsed_time:.2f} seconds\n")
-    except Exception as e:
-        print(f"Error writing to output file: {e}")
+    print(f"Total script runtime: {elapsed_time:.2f} seconds")
 
 
 if __name__ == "__main__":
