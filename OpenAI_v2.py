@@ -127,7 +127,7 @@ def load_comments(input_file):
     comments = []
     try:
         with open(input_file, "r") as json_file:
-            json_list = list(json_file)[:100]
+            json_list = list(json_file)
     except FileNotFoundError:
         print(f"Error: File {input_file} not found.")
         return comments
