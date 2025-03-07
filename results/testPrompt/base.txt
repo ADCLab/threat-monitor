@@ -1,0 +1,3002 @@
+===== Final Results =====
+Comment #1:
+Rating      : 1
+Content     : I thought he was alright then I saw that photo of him planning the proposal and lost all respect for him. He's just another attention seeking clown. Hopefully he's smart enough to make her sign a prenup. 
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #2:
+Rating      : 1
+Content     : Good for them. Seem like a nice couple.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #3:
+Rating      : 1
+Content     : Luka is the man!  Go Mavs!
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #4:
+Rating      : 1
+Content     : Luka is my sons favorite player but he’s a cry baby 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #5:
+Rating      : 1
+Content     : He's got himself a keeper.  Unlike a lot of WAGS she's not addicted to attention, and truly has his best interests at heart.
+Tokens Used : 134
+Error Msg   : N/A
+
+Comment #6:
+Rating      : 1
+Content     : I thought he was alright then I saw that photo of him planning the proposal and lost all respect for him. He's just another attention seeking clown. Hopefully he's smart enough to make her sign a prenup. 
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #7:
+Rating      : 1
+Content     : Good for them. Seem like a nice couple.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #8:
+Rating      : 1
+Content     : Luka is the man!  Go Mavs!
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #9:
+Rating      : 1
+Content     : Luka is my sons favorite player but he’s a cry baby 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #10:
+Rating      : 1
+Content     : He's got himself a keeper.  Unlike a lot of WAGS she's not addicted to attention, and truly has his best interests at heart.
+Tokens Used : 134
+Error Msg   : N/A
+
+Comment #11:
+Rating      : N/A
+Content     : She's a "Vision".  All two bucks eighty.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': True, 'severity': 'medium'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #12:
+Rating      : 1
+Content     : Lizzo in all of us. Give them a 3 pak window-to aisle!
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #13:
+Rating      : 1
+Content     : "FAT". The word is "fat". Not "plus-sized". Fat, fat, fat.
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #14:
+Rating      : 1
+Content     : They might want to consult an engineer about the structural integrity of that swing.
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #15:
+Rating      : N/A
+Content     : I'm tired of these people. Just lose some weight - problem solved 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #16:
+Rating      : 1
+Content     : My Mom always said that if you cant say anything  nice, dont say anything  at all. Sorry Mom! She needs to go on a damn diet!😩
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #17:
+Rating      : 1
+Content     : Imagine your horror as she squeezes down the aisle and stops at your row...
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #18:
+Rating      : 1
+Content     : I say anybody over 200 pounds should buy two seats on any airplane.  
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #19:
+Rating      : 1
+Content     : She’s not really on that swing. That thing had to be Photoshopped.  
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #20:
+Rating      : 1
+Content     : The funny thing is they had a separate area for “plus sizes”They would complain about that too!
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #21:
+Rating      : 1
+Content     : My Mom always said that if you cant say anything  nice, dont say anything  at all. Sorry Mom! She needs to go on a damn diet!😩
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #22:
+Rating      : 1
+Content     : Imagine your horror as she squeezes down the aisle and stops at your row...
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #23:
+Rating      : 1
+Content     : I say anybody over 200 pounds should buy two seats on any airplane.  
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #24:
+Rating      : 1
+Content     : She’s not really on that swing. That thing had to be Photoshopped.  
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #25:
+Rating      : 1
+Content     : The funny thing is they had a separate area for “plus sizes”They would complain about that too!
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #26:
+Rating      : N/A
+Content     : Fat will equal fatal if you don't control yourself. We'll see in the next few years what happens to these people who are allergic to self control.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #27:
+Rating      : 1
+Content     : Skinny people should have rights too.
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #28:
+Rating      : 2
+Content     : "How much room" she'll have in her economy seat??? EXACTLY how much room  everyone has in economy seats! Oh, I forgot, because of THEIR lifestyle choices, they are used to usurping and spreading into the space of another paying passenger...
+Tokens Used : 158
+Error Msg   : N/A
+
+Comment #29:
+Rating      : 2
+Content     : She is NOT "plus-sized." She is FULLY two or three people.
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #30:
+Rating      : 1
+Content     : I thought that pigs don't fly.
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #31:
+Rating      : 1
+Content     : I’m imagining me sitting in a window seat and an open seat next to me.   With the boarding door about to close…..
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #32:
+Rating      : 1
+Content     : They need a airline just for plus sized people. Some of them smell.... 
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #33:
+Rating      : 1
+Content     : Gotta be politically correct now with the plus size. They should rename that movie My Big Plus Size Greek Wedding 
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #34:
+Rating      : 1
+Content     : I believe a fuel surcharge is in order.
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #35:
+Rating      : 1
+Content     : So if I understand this cow correctly, HER comfort is more important than anyone else’s. How bout a freaking diet
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #36:
+Rating      : 1
+Content     : There is a big difference between plus sized, fat, and obese. She is obese. NOT plus sized.
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #37:
+Rating      : 1
+Content     : LOLcows, pay them no attention, Ive never seen them in business class.
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #38:
+Rating      : N/A
+Content     : I can't believe so many people care what this slob has to say.  Plane seats and accomodations are made for average people.  Most people who ride planes are not 300 lbs. I suggest loosing weight.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #39:
+Rating      : 1
+Content     : Ohhh, she likes her cakes, that one.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #40:
+Rating      : N/A
+Content     : Lose some weight (or a lot) - so you don't have to inconvenience others by spreading over an extra seat or two.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #41:
+Rating      : 1
+Content     : Thermodynamics dont lie.  Fat=energy and she is taking in way more than she's using.  Shame on her.
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #42:
+Rating      : 1
+Content     : Just disgusting.
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #43:
+Rating      : 2
+Content     : Maybe they should charge Reds by the pound.
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #44:
+Rating      : 1
+Content     : Not plus sized; obese. 
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #45:
+Rating      : 1
+Content     : I'm normal size and no one has ever side-eyed or scolded me for sprawling across empty plane seats. I am very polite and respectful before I hog the seats myself haha. I do think larger folks get scrutinised.
+Tokens Used : 151
+Error Msg   : N/A
+
+Comment #46:
+Rating      : 1
+Content     : Just disgusting.
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #47:
+Rating      : 3
+Content     : Maybe they should charge Reds by the pound.
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #48:
+Rating      : 1
+Content     : Not plus sized; obese. 
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #49:
+Rating      : 1
+Content     : I'm normal size and no one has ever side-eyed or scolded me for sprawling across empty plane seats. I am very polite and respectful before I hog the seats myself haha. I do think larger folks get scrutinised.
+Tokens Used : 151
+Error Msg   : N/A
+
+Comment #50:
+Rating      : 1
+Content     : I don't get it. . . She asked for an extra seat and if its available, she's good to go. If not available, what does she then do? I wouldn't allow her to sit on my seat. 
+Tokens Used : 150
+Error Msg   : N/A
+
+Comment #51:
+Rating      : 1
+Content     : An overweight bag is an overweight bag. Shouldn't matter if it breathes or not and overweight and oversize fees should apply.
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #52:
+Rating      : 1
+Content     : It amazes me how entitled she feels.  She repulses me.
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #53:
+Rating      : 1
+Content     : She is why I do not shop at Walmart.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #54:
+Rating      : N/A
+Content     : I love that with her extra room, she sprawls out with her feet on the seats where other people will sit. Rude and obese. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #55:
+Rating      : 2
+Content     : We need to stop glorifying morbid obesity. It is not healthy to be that big. There is really something wrong with this world when they glorify the morbidly obese and the men who dress like women. This is grotesque and needs to be stopped.
+Tokens Used : 160
+Error Msg   : N/A
+
+Comment #56:
+Rating      : 1
+Content     : She looks unhealthy.  I doubt she lives much longer.  
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #57:
+Rating      : 1
+Content     : There should be seats on Cargo planes it would be easy boarding.
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #58:
+Rating      : 1
+Content     : Here's a Tik Tok hack . Get on a treadmill 
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #59:
+Rating      : 1
+Content     : Eeewwwwww, gross.
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #60:
+Rating      : 1
+Content     : OOOFFAA She must have been heading to Omar the tent maker for a new wardrobe. You need two seats big cheeks pay for it, or how about hit the gym, oh never mind it must be one of those glandular things..
+Tokens Used : 154
+Error Msg   : N/A
+
+Comment #61:
+Rating      : 1
+Content     : Eat a salad once in a while lady!!!!
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #62:
+Rating      : 1
+Content     : I feel this is unfair. If you are morbidly obese, and that is your choice, buy two seats. Really. Or, if it truly is a health issue that can't be controlled by diet, get a Drs. note and perhaps the airline can comp one seat. I am so tired and this just adds fat to the fire.
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #63:
+Rating      : 2
+Content     : Amazing how airlines charge extra for oversized luggage but an oversized person gets TWO seats for the asking. How about pushing yourself back from the table?
+Tokens Used : 134
+Error Msg   : N/A
+
+Comment #64:
+Rating      : 1
+Content     : Did she actually say ‘airlines make it so hard to book a second seat’ ?  Have you tried paying for it ?
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #65:
+Rating      : 2
+Content     : Lets keep rewarding the undisciplined 
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #66:
+Rating      : 1
+Content     : You misspelled MoreBidLyOhBeese
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #67:
+Rating      : 1
+Content     : More bid lee oh beeseIts not our problem.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #68:
+Rating      : N/A
+Content     : In just a year or two she will be able to advise on getting preferential treatment for being so obese that she needs a wheelchair and can board early.  My guess is the knees will go first.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #69:
+Rating      : N/A
+Content     : I'd say this fattie should consider a cargo flight. That way no passenger would be forced to be seated next to this gluttonous slob.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #70:
+Rating      : 1
+Content     : Everyone is a “victim “ of some sort these days.
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #71:
+Rating      : 1
+Content     : You misspelled MoreBidLyOhBeese
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #72:
+Rating      : 1
+Content     : More bid lee oh beeseIts not our problem.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #73:
+Rating      : N/A
+Content     : In just a year or two she will be able to advise on getting preferential treatment for being so obese that she needs a wheelchair and can board early.  My guess is the knees will go first.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #74:
+Rating      : N/A
+Content     : I'd say this fattie should consider a cargo flight. That way no passenger would be forced to be seated next to this gluttonous slob.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #75:
+Rating      : 1
+Content     : Everyone is a “victim “ of some sort these days.
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #76:
+Rating      : 2
+Content     : These people all look the same.
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #77:
+Rating      : 1
+Content     : Space invaders from planet Earth.
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #78:
+Rating      : 2
+Content     : This sort of thing makes death panels salivate when government takes over all healthcare.
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #79:
+Rating      : 1
+Content     : When she sits around the house, she really Sits AROUND the House.Don’t be the passenger behind her in the bathroom line.
+Tokens Used : 134
+Error Msg   : N/A
+
+Comment #80:
+Rating      : 1
+Content     : Buy two seats or start dieting, running and getting healthy months before your flight.
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #81:
+Rating      : 1
+Content     : Lose some weight. Have some respect for other travellers (and yourself)
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #82:
+Rating      : 1
+Content     : Sad but true 70% of Americans are overweight and a good chunk are obese.  Meanwhile Tues Wed Sat have the most available seats for people who need room. People are getting taller and bigger and planes need to adapt. 
+Tokens Used : 152
+Error Msg   : N/A
+
+Comment #83:
+Rating      : N/A
+Content     : When are we gonna add obese to the ever growing Lqbt+=B$.&
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #84:
+Rating      : 1
+Content     : One seat for a gravy boat on the side.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #85:
+Rating      : 2
+Content     : Enjoy those fat legs while you got em tubby, diabetes and amputation are right around the corner 
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #86:
+Rating      : 1
+Content     : maybe a salad now and then ?
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #87:
+Rating      : 1
+Content     : I’m a “plus” size guy and would be embarrassed to demand or ask for a second seat .I cram into mine then keep my legs together so the middle person isn’t overtaken.Being 6’1” doesn’t help but it’s doable
+Tokens Used : 158
+Error Msg   : N/A
+
+Comment #88:
+Rating      : 1
+Content     : This is your captain from the flight deck, we will be delayed a bit taking off as we are overweight and need to take on additional petrol.  
+Tokens Used : 136
+Error Msg   : N/A
+
+Comment #89:
+Rating      : 1
+Content     : Maybe try exercising? Try pushing yourself away from the table. That should give her a workout. When I used to be about 15 pounds overweight, that's what my father suggested. You know what it worked!
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #90:
+Rating      : 1
+Content     : No disrespect but I am 5 11 and 175 and I find it hard to get into the washroom, I guess in her case she waddles to emergency exit and uh oh.
+Tokens Used : 145
+Error Msg   : N/A
+
+Comment #91:
+Rating      : 1
+Content     : In the words of tony soprano, “try a pfu-kin salad”
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #92:
+Rating      : N/A
+Content     : I guess it’s hard traveling when your a fatty, but I guess not hard enough to slim down, so, I feel sorry for anyone who has to sit next to the glutton.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #93:
+Rating      : 2
+Content     : Fat Lives Matter ya’ll
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #94:
+Rating      : N/A
+Content     : She is fat..not attractive at all. When she is a guest at someone’s house does she Bring her own Reinforced chair ..does she eat normal size portions when visiting or eating out..
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #95:
+Rating      : 2
+Content     : Hillary Clinton flies private for this very reason
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #96:
+Rating      : N/A
+Content     : I guess it’s hard traveling when your a fatty, but I guess not hard enough to slim down, so, I feel sorry for anyone who has to sit next to the glutton.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #97:
+Rating      : 1
+Content     : Fat Lives Matter ya’ll
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #98:
+Rating      : N/A
+Content     : She is fat..not attractive at all. When she is a guest at someone’s house does she Bring her own Reinforced chair ..does she eat normal size portions when visiting or eating out..
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #99:
+Rating      : 2
+Content     : Hillary Clinton flies private for this very reason
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #100:
+Rating      : 1
+Content     : She so fat…her blood type is ragu
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #101:
+Rating      : 1
+Content     : Absolutely disgusting. 
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #102:
+Rating      : N/A
+Content     : A fat guy swore at me because I didn't move out of the handicapped/ disabled seats fast enough. Being fat is a disability? I asked him if he was mentally disabled.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #103:
+Rating      : 1
+Content     : She should have to pay double. 
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #104:
+Rating      : 1
+Content     : She looks like a walrus
+Tokens Used : 112
+Error Msg   : N/A
+
+Comment #105:
+Rating      : 1
+Content     : Loose the weight and stop complaining 
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #106:
+Rating      : 1
+Content     : All of a sudden I think I need to start hitting the gym again. 
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #107:
+Rating      : 1
+Content     : That would make my day if there was an empty seat in the same row that she was sitting with me.
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #108:
+Rating      : 1
+Content     : Oooof
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #109:
+Rating      : 2
+Content     : No exercise, non stop food intake leads to an unhealthy obese, diabetic lifestyle that today,  woke attempts to propagandize to our young,  fat is beneficial and beautiful, it is not.
+Tokens Used : 146
+Error Msg   : N/A
+
+Comment #110:
+Rating      : 1
+Content     : It would be so much easier for her to board the plane...With a forklift
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #111:
+Rating      : 1
+Content     : Slobs should be required to purchase 2 to 3 seats based on exactly how enormous they are.
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #112:
+Rating      : 1
+Content     : Or some people eat less instead of whining about how industry doesn't cater to them.  Just sayin.  
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #113:
+Rating      : N/A
+Content     : "Plus Size"??  No, incredibly and morbidly and disgustingly obese.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #114:
+Rating      : 1
+Content     : ozempic would easily solve the problem 
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #115:
+Rating      : 1
+Content     : She's not "plus size" she's fat. Step away from the table. Airlines should insist she buy two seats, not kidding, why should I be forced to sit in this situation if I am buying 'one' of their seats. The majority of passengers are not that fat. They should not be favored against the majority of people.
+Tokens Used : 173
+Error Msg   : N/A
+
+Comment #116:
+Rating      : N/A
+Content     : She's so fat, she's got two pictures:  "before", and "before that". 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #117:
+Rating      : 1
+Content     : It's not my problem or the airlines problem to fix. She needs to buy 2 seats and be quiet about it. Maybe Airlines could start selling seats by width. You pay for for bigger sizes of clothes because they cost more to make. Same principle applies.
+Tokens Used : 158
+Error Msg   : N/A
+
+Comment #118:
+Rating      : 1
+Content     : She smells real bad.
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #119:
+Rating      : 1
+Content     : Disgusting 
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #120:
+Rating      : 1
+Content     : I want to know, “What tastes so good?”
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #121:
+Rating      : 2
+Content     : No exercise, non stop food intake leads to an unhealthy obese, diabetic lifestyle that today,  woke attempts to propagandize to our young,  fat is beneficial and beautiful, it is not.
+Tokens Used : 146
+Error Msg   : N/A
+
+Comment #122:
+Rating      : 1
+Content     : It would be so much easier for her to board the plane...With a forklift
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #123:
+Rating      : 1
+Content     : Slobs should be required to purchase 2 to 3 seats based on exactly how enormous they are.
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #124:
+Rating      : 1
+Content     : Or some people eat less instead of whining about how industry doesn't cater to them.  Just sayin.  
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #125:
+Rating      : N/A
+Content     : "Plus Size"??  No, incredibly and morbidly and disgustingly obese.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #126:
+Rating      : 1
+Content     : ozempic would easily solve the problem 
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #127:
+Rating      : 1
+Content     : She's not "plus size" she's fat. Step away from the table. Airlines should insist she buy two seats, not kidding, why should I be forced to sit in this situation if I am buying 'one' of their seats. The majority of passengers are not that fat. They should not be favored against the majority of people.
+Tokens Used : 173
+Error Msg   : N/A
+
+Comment #128:
+Rating      : 1
+Content     : It's not my problem or the airlines problem to fix. She needs to buy 2 seats and be quiet about it. Maybe Airlines could start selling seats by width. You pay for for bigger sizes of clothes because they cost more to make. Same principle applies.
+Tokens Used : 158
+Error Msg   : N/A
+
+Comment #129:
+Rating      : N/A
+Content     : She's so fat, she's got two pictures:  "before", and "before that". 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #130:
+Rating      : 1
+Content     : She smells real bad.
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #131:
+Rating      : 1
+Content     : Disgusting 
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #132:
+Rating      : 1
+Content     : I want to know, “What tastes so good?”
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #133:
+Rating      : N/A
+Content     : You can almost guarantee that all the pressed right wing nut jobs taking shots at this woman are overweight themselves and haven't seen their little weenies in years. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #134:
+Rating      : 1
+Content     : If she put as much effort into diet and exercise as she does figuring out ways to get extra seats for free, she wouldn’t need the extra seat 
+Tokens Used : 137
+Error Msg   : N/A
+
+Comment #135:
+Rating      : 1
+Content     : So, why aren't the tall people demanding seats for no extra charge in business class because of their long legs? Or short people demanding lower bag storage above their seats? Or wait...free animal accommodation for your Shetland pony support animal and free seats for companions to help with anxiety?Airlines are businesses. You buy seats according to their terms and their sizes. They make a profit. And they deserve to. That's life.  If you don't fit in a standard seat, either buy two or fly business or first class. 
+Tokens Used : 213
+Error Msg   : N/A
+
+Comment #136:
+Rating      : 1
+Content     : Call me Ishmael
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #137:
+Rating      : 1
+Content     : yeah yeah well all know you bring your own seat belt extender.
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #138:
+Rating      : 1
+Content     : I find it interesting, when you check a bag, if it’s over 50 lbs, you pay a $50-100 fee. Yet, a 300 pounder can walk on plane and sit next to you. And his friends. I dunno know,  something isn’t right about either.
+Tokens Used : 168
+Error Msg   : N/A
+
+Comment #139:
+Rating      : 1
+Content     : I guess she didn't lower her A1C with Ozempic?
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #140:
+Rating      : 1
+Content     : Cows belong on a farm, not on a plane.😂😭😂🐮🐮
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #141:
+Rating      : 1
+Content     : She has her own gravity so it's not uncommon to find satellites orbiting around her.
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #142:
+Rating      : 1
+Content     : Why do beefy gals w/pasty-white skin always have tattoos on their thighs??
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #143:
+Rating      : 1
+Content     : Leanne, just moooove the plate away.  
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #144:
+Rating      : 1
+Content     : Hold on, my comment is waiting for approval.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #145:
+Rating      : 1
+Content     : My father gained lots of weight later in life. His word for it was "fat". He corrected anyone using euphemisms such as portly, large, overweight, because he thought it was dishonest. Portly didn't shave any pounds off of him. He was fine with honesty.
+Tokens Used : 163
+Error Msg   : N/A
+
+Comment #146:
+Rating      : 1
+Content     : Cows belong on a farm, not on a plane.😂😭😂🐮🐮
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #147:
+Rating      : 1
+Content     : She has her own gravity so it's not uncommon to find satellites orbiting around her.
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #148:
+Rating      : 1
+Content     : Why do beefy gals w/pasty-white skin always have tattoos on their thighs??
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #149:
+Rating      : 1
+Content     : Leanne, just moooove the plate away.  
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #150:
+Rating      : 1
+Content     : Hold on, my comment is waiting for approval.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #151:
+Rating      : 1
+Content     : My father gained lots of weight later in life. His word for it was "fat". He corrected anyone using euphemisms such as portly, large, overweight, because he thought it was dishonest. Portly didn't shave any pounds off of him. He was fine with honesty.
+Tokens Used : 163
+Error Msg   : N/A
+
+Comment #152:
+Rating      : N/A
+Content     : #1 Being obese is not a disability #2 she should have booked a stall in cargo used for bovine#3 seeing her stretched out reminds me of an exhibit at the London Natural Museum #4 the only hot meal she should be served is a bowl of steam #5 add an additional 1000 gallons of jet fuel #6 due to a water landing use a death grip on her rolls and #7 don’t get behind her in the bathroom line 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #153:
+Rating      : 1
+Content     : Please cover her untimely death in her early 40s with as much attention as you celebrate her gruesomely unhealthy lifestlyle. 
+Tokens Used : 137
+Error Msg   : N/A
+
+Comment #154:
+Rating      : 2
+Content     : On the “Plus Side” she’ll die sooner than  non “Plus Size” women. No shame in that.
+Tokens Used : 130
+Error Msg   : N/A
+
+Comment #155:
+Rating      : 1
+Content     : Hugh jaynous
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #156:
+Rating      : 2
+Content     : One of the things desperately wrong with out culture is insisting on the celebration of all manner of unhealthy behaviour. Things will only get worse until we admit to ourselves that cheering on destructive behavior only yields more of it. 
+Tokens Used : 149
+Error Msg   : N/A
+
+Comment #157:
+Rating      : 1
+Content     : This is nonsense. She’s 30 and is sharing advice on how to screw the other passengers and steal from the airlines. She’s on a blog? Change your messaging. Help yourself and others to be and look healthier! 
+Tokens Used : 152
+Error Msg   : N/A
+
+Comment #158:
+Rating      : 1
+Content     : If the plane 🛬 were to fall, she's going to be my couch cushion. 😁👍
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #159:
+Rating      : 2
+Content     : So, any regular sized people can do the same .... If the airlines decline, lawsuit
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #160:
+Rating      : N/A
+Content     : Don't know about you but I've about had enough of fat people.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #161:
+Rating      : 1
+Content     : Does she then also get the food meant for the extra seats? She most likely does, because with her estimated 350 pounds she needs at least 500 daily calories more compared to a 140 pound woman, just in order to maintain her weight.Did you know, that since people on average have gained 8% during the last 30 years, a normal plane now weighs ONE tonne more. This has caused many operational headaches for airlines, which will become worse, as people are continuing to gain weight. Than you, Leanne.
+Tokens Used : 214
+Error Msg   : N/A
+
+Comment #162:
+Rating      : 1
+Content     : She’s not even embarrassed about how fat she is
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #163:
+Rating      : 1
+Content     : I was once in First Class on a United Flight and the guy next to me had the WORST body odor!  I complained to the Lead Flight Attendant and they had a dead-heading United Pilot switch seats with me.  I felt so sorry for him; but Heck, I paid for my seat, he was riding for free.  
+Tokens Used : 175
+Error Msg   : N/A
+
+Comment #164:
+Rating      : 1
+Content     : Yo Yo Ma buys the adjoining seat for his priceless Cello; which he never lets out of his sight.
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #165:
+Rating      : 1
+Content     : how much does it shovel down it's throat each meal?
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #166:
+Rating      : 1
+Content     : Obese 
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #167:
+Rating      : N/A
+Content     : plus size is a ridiculous term for these beasts.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #168:
+Rating      : 1
+Content     : Morbid
+Tokens Used : 108
+Error Msg   : N/A
+
+Comment #169:
+Rating      : 1
+Content     : Wow, when they say plus, they mean plus?
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #170:
+Rating      : 1
+Content     : Morbidly  “overweight” ….does that fly AI post censor?
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #171:
+Rating      : N/A
+Content     : plus size is a ridiculous term for these beasts.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #172:
+Rating      : 1
+Content     : Morbid
+Tokens Used : 108
+Error Msg   : N/A
+
+Comment #173:
+Rating      : 1
+Content     : Wow, when they say plus, they mean plus?
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #174:
+Rating      : 1
+Content     : Morbidly  “overweight” ….does that fly AI post censor?
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #175:
+Rating      : 1
+Content     : It should all be calculated the same way they calculate freight: Pounds and dimension.  Period. Have a scale and a tape measure by the gate.To her credit, she DOES not complain about paying when required and isn't advocating for huge lifestyles. I didn't sense any whining or entitlement in the article.  Not much different than other requests people make (an extra blanket, allowing a small bag etc). I miss flying and even the layovers just to drink, people watch and BS with other travelers.Okay moderators... if you're going to reject this for using "BS" then thats how it is. I stand defiant of your omnipotent power over us prols! 🤣
+Tokens Used : 242
+Error Msg   : N/A
+
+Comment #176:
+Rating      : 2
+Content     : Have your moment honey, you’ll be dead within a few years anyways. 
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #177:
+Rating      : 1
+Content     : Watchout that the chains dont snap on those swings. Doesn't look like they could handle the weight.
+Tokens Used : 126
+Error Msg   : N/A
+
+Comment #178:
+Rating      : 1
+Content     : Instead of spending money on travel perhaps she could get a dietician, trainer and therapist. Sad. Sigh. 
+Tokens Used : 130
+Error Msg   : N/A
+
+Comment #179:
+Rating      : 1
+Content     : The most popular program on TV is 1,000lb Sisters. Hold your breath, there is lots more coming! 
+Tokens Used : 131
+Error Msg   : N/A
+
+Comment #180:
+Rating      : N/A
+Content     : As someone's who had to sit next to an obese person who had less than stellar hygiene on a three-hour flight, I'm 100% ok with the obese having their own row.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #181:
+Rating      : 1
+Content     : Human??
+Tokens Used : 108
+Error Msg   : N/A
+
+Comment #182:
+Rating      : 1
+Content     : That’s one hell of a swing with titanium rope to hold up such a large frame 
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #183:
+Rating      : 1
+Content     : Nothing wrong with that. Everyone would want an empty seat next to them. 
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #184:
+Rating      : 1
+Content     : She fat.
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #185:
+Rating      : 1
+Content     : Excellent I got a laugh out of that one.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #186:
+Rating      : 1
+Content     : I don't think that seat belt would keep her down. 
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #187:
+Rating      : 1
+Content     : Trailer Park Airways.... Fly with the pigeons.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #188:
+Rating      : 1
+Content     : Imagine her snax bag??
+Tokens Used : 112
+Error Msg   : N/A
+
+Comment #189:
+Rating      : 1
+Content     : That's not plus-sized that's planet-sized
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #190:
+Rating      : 1
+Content     : Bet she gets double snack service too 💺💺
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #191:
+Rating      : 1
+Content     : She's such a hero, no hate, love the weight!
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #192:
+Rating      : 1
+Content     : It;s not the airline or passengers fault tat a person is plus size. If a person requires more than one seat, they should pay for the space. Is it ideal? No. But that is the best way t handle these matters. 
+Tokens Used : 155
+Error Msg   : N/A
+
+Comment #193:
+Rating      : 1
+Content     : I think I heard that swing crying....
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #194:
+Rating      : 1
+Content     : I'd love an extra seat on my next flight. Guess it's time to start eating more.
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #195:
+Rating      : 1
+Content     : Imagine trying to get around her and other heifers in an emergency?
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #196:
+Rating      : 1
+Content     : She's such a hero, no hate, love the weight!
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #197:
+Rating      : 1
+Content     : It;s not the airline or passengers fault tat a person is plus size. If a person requires more than one seat, they should pay for the space. Is it ideal? No. But that is the best way t handle these matters. 
+Tokens Used : 155
+Error Msg   : N/A
+
+Comment #198:
+Rating      : 1
+Content     : I think I heard that swing crying....
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #199:
+Rating      : 1
+Content     : I'd love an extra seat on my next flight. Guess it's time to start eating more.
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #200:
+Rating      : 1
+Content     : Imagine trying to get around her and other heifers in an emergency?
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #201:
+Rating      : 1
+Content     : This is supersized, not plus sized….
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #202:
+Rating      : 1
+Content     : You didn't expect diet and exercise tips, did you?
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #203:
+Rating      : 1
+Content     : SOCIAL MEDIA is a blessing for FAT WOMEN.🤣🤣🤣🤣🤣
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #204:
+Rating      : 2
+Content     : We are in a depopulation era.  That is why she is featured.
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #205:
+Rating      : 1
+Content     : the plane has to use 800% more fuel when she is on board, why doesn't she pay 800% more for her ticket?
+Tokens Used : 134
+Error Msg   : N/A
+
+Comment #206:
+Rating      : 2
+Content     : Dropped the double barrel, grabbed the harpoon
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #207:
+Rating      : 1
+Content     : What happens to the poor sap that gets a seating assignment next to her on a fully booked flight. 
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #208:
+Rating      : N/A
+Content     : How do you become so obese? I can imagine the smell.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #209:
+Rating      : 1
+Content     : Will have nothing but health problems in the future. Probably a much shorter life too. You can eat a piece of fish and a potato at home for cheaper than a Big Mac and fries with the giant coke.
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #210:
+Rating      : 1
+Content     : What's wrong with asking at the gate if there are two seats together? The other seat wasn't sold - seems fine to allow someone bigger to use it. People are eager to find fault with everyone. 
+Tokens Used : 146
+Error Msg   : N/A
+
+Comment #211:
+Rating      : 1
+Content     : Could you imagen getting to your seat and she is in the middle seat ? How could anyone fit?
+Tokens Used : 126
+Error Msg   : N/A
+
+Comment #212:
+Rating      : 1
+Content     : Dummy’s that don’t fly … if you buy two seats the airline can give away an empty seat you paid for . It’s in the contract … I’ve seen them give away an infant seat parents paid for and told them to hold baby 
+Tokens Used : 155
+Error Msg   : N/A
+
+Comment #213:
+Rating      : 1
+Content     : try losing some weight!
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #214:
+Rating      : 1
+Content     : One word, Ozempic
+Tokens Used : 112
+Error Msg   : N/A
+
+Comment #215:
+Rating      : 1
+Content     : I truly feel sorry for these folks. I refuse to belittle them. Heartbreaking…….
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #216:
+Rating      : 1
+Content     : Unhealty.
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #217:
+Rating      : N/A
+Content     : The day will come when "plus size" will become an inappropriate adjective and another more acceptable adjective will be invented to describe FAT people. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #218:
+Rating      : 1
+Content     : This idea that just because you're too fat to fit in a seat on an airline that you should get a "FREE" seat or two-Southwest, really angers me.  After I beat cancer, I gain A LOT of weight to the point I was obese.  My oncologist told me that I needed to lose weight to prevent other cancers from possible occurring.  So I had the gastric sleeve surgery-which is covered by most if not all insurance if deemed medically necessary.  HOWEVER, I had to make changes in what I ate and drank, worked with a nutritionist BEFORE I could get the green light for the surgery.  So it is not fair that people who make poor nutritional decisions should get a FREE seat.  I put in the time, effort and made changes to lose the weight.  Why should someone who does not be rewarded?  I realize that not everyone who is obese is large because of what they eat, but there are people who may have medical conditions and maybe they could be an accommodation for them.  If your too fat for an economy seat, then buy a first class ticket.  Who do you think is going to pay for these free "PERSON OF SIZE" seats?
+Tokens Used : 330
+Error Msg   : N/A
+
+Comment #219:
+Rating      : N/A
+Content     : People aren't  born fat, it's their conscience choice to be that way.  To think the world owes them or should accomodate them because of their size is ridiculous and unfair to the rest of us who actually care about ourself.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #220:
+Rating      : 1
+Content     : When your calves are the size of a normal man’s thighs, you’re the problem 
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #221:
+Rating      : 1
+Content     : I truly feel sorry for these folks. I refuse to belittle them. Heartbreaking…….
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #222:
+Rating      : 1
+Content     : Unhealty.
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #223:
+Rating      : N/A
+Content     : The day will come when "plus size" will become an inappropriate adjective and another more acceptable adjective will be invented to describe FAT people. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #224:
+Rating      : 1
+Content     : This idea that just because you're too fat to fit in a seat on an airline that you should get a "FREE" seat or two-Southwest, really angers me.  After I beat cancer, I gain A LOT of weight to the point I was obese.  My oncologist told me that I needed to lose weight to prevent other cancers from possible occurring.  So I had the gastric sleeve surgery-which is covered by most if not all insurance if deemed medically necessary.  HOWEVER, I had to make changes in what I ate and drank, worked with a nutritionist BEFORE I could get the green light for the surgery.  So it is not fair that people who make poor nutritional decisions should get a FREE seat.  I put in the time, effort and made changes to lose the weight.  Why should someone who does not be rewarded?  I realize that not everyone who is obese is large because of what they eat, but there are people who may have medical conditions and maybe they could be an accommodation for them.  If your too fat for an economy seat, then buy a first class ticket.  Who do you think is going to pay for these free "PERSON OF SIZE" seats?
+Tokens Used : 330
+Error Msg   : N/A
+
+Comment #225:
+Rating      : N/A
+Content     : People aren't  born fat, it's their conscience choice to be that way.  To think the world owes them or should accomodate them because of their size is ridiculous and unfair to the rest of us who actually care about ourself.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #226:
+Rating      : 2
+Content     : When your calves are the size of a normal man’s thighs, you’re the problem 
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #227:
+Rating      : N/A
+Content     : On what planet does she think she would be classified as plus size because here on planet Earth she is definitely not plus size but morbidly obese. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #228:
+Rating      : 1
+Content     : What she dosent mention is that the airlines  won't  let her get up and use the lavatory in the cruise, somethin' about cenrre of gavity I think ...
+Tokens Used : 145
+Error Msg   : N/A
+
+Comment #229:
+Rating      : 1
+Content     : Once again we celebrate the undisciplined. She'd be out of luck on JetBlue to Orlando..............
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #230:
+Rating      : 1
+Content     : Mooooooooooooooo
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #231:
+Rating      : 1
+Content     : And if your suitcase is a pound too heavy, the airline will charge you an extra $100, but we're all supposed to celebrate Miss Piggy?
+Tokens Used : 136
+Error Msg   : N/A
+
+Comment #232:
+Rating      : 1
+Content     : Repulsive!
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #233:
+Rating      : 2
+Content     : Any plane she rides on better have been made on Krypton.
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #234:
+Rating      : 2
+Content     : Why is this the only victim group that never has protest marches? (Preferably 60-90 minutes daily) :-)
+Tokens Used : 130
+Error Msg   : N/A
+
+Comment #235:
+Rating      : 1
+Content     : “plus-sized person,” as she refers to herselfThe rest of us just call them fat.  Also, how does one make money being a "travel blogger"?  Who's paying her to do this?
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #236:
+Rating      : N/A
+Content     : The reason that she gets an extra seat is because no one would want to sit next to her. Fellow travelers would feel sorry for her.  None of the attention she's getting is good, but being as delusional as she obviously is, she doesn't understand that.  Most people with non self induced limitations would need to bring attention to themselves. That includes the morbidly obese, of which she is one. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #237:
+Rating      : N/A
+Content     : I truly believe obese individuals should not only have to pay extra for their space but also be put at the back of the plane. If there is an emergency evacuation or similar situation, how will people get around? It’s ridiculous that non- obese  are now the ones being discriminated against.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #238:
+Rating      : 1
+Content     : eat a salad
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #239:
+Rating      : 1
+Content     : “plus-sized person,” as she refers to herselfThe rest of us just call them fat.  Also, how does one make money being a "travel blogger"?  Who's paying her to do this?
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #240:
+Rating      : N/A
+Content     : The reason that she gets an extra seat is because no one would want to sit next to her. Fellow travelers would feel sorry for her.  None of the attention she's getting is good, but being as delusional as she obviously is, she doesn't understand that.  Most people with non self induced limitations would need to bring attention to themselves. That includes the morbidly obese, of which she is one. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #241:
+Rating      : N/A
+Content     : I truly believe obese individuals should not only have to pay extra for their space but also be put at the back of the plane. If there is an emergency evacuation or similar situation, how will people get around? It’s ridiculous that non- obese  are now the ones being discriminated against.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #242:
+Rating      : 1
+Content     : eat a salad
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #243:
+Rating      : 1
+Content     : eat a salad
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #244:
+Rating      : 1
+Content     : eat a salad
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #245:
+Rating      : N/A
+Content     : She's a "Vision".  All two bucks eighty.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': True, 'severity': 'medium'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #246:
+Rating      : 1
+Content     : Lizzo in all of us. Give them a 3 pak window-to aisle!
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #247:
+Rating      : 1
+Content     : "FAT". The word is "fat". Not "plus-sized". Fat, fat, fat.
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #248:
+Rating      : 1
+Content     : They might want to consult an engineer about the structural integrity of that swing.
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #249:
+Rating      : N/A
+Content     : I'm tired of these people. Just lose some weight - problem solved 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #250:
+Rating      : 1
+Content     : My Mom always said that if you cant say anything  nice, dont say anything  at all. Sorry Mom! She needs to go on a damn diet!😩
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #251:
+Rating      : 1
+Content     : Imagine your horror as she squeezes down the aisle and stops at your row...
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #252:
+Rating      : 1
+Content     : I say anybody over 200 pounds should buy two seats on any airplane.  
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #253:
+Rating      : 1
+Content     : She’s not really on that swing. That thing had to be Photoshopped.  
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #254:
+Rating      : 1
+Content     : The funny thing is they had a separate area for “plus sizes”They would complain about that too!
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #255:
+Rating      : N/A
+Content     : Fat will equal fatal if you don't control yourself. We'll see in the next few years what happens to these people who are allergic to self control.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #256:
+Rating      : 1
+Content     : Skinny people should have rights too.
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #257:
+Rating      : 2
+Content     : "How much room" she'll have in her economy seat??? EXACTLY how much room  everyone has in economy seats! Oh, I forgot, because of THEIR lifestyle choices, they are used to usurping and spreading into the space of another paying passenger...
+Tokens Used : 158
+Error Msg   : N/A
+
+Comment #258:
+Rating      : 2
+Content     : She is NOT "plus-sized." She is FULLY two or three people.
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #259:
+Rating      : 1
+Content     : I thought that pigs don't fly.
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #260:
+Rating      : 1
+Content     : I’m imagining me sitting in a window seat and an open seat next to me.   With the boarding door about to close…..
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #261:
+Rating      : 1
+Content     : They need a airline just for plus sized people. Some of them smell.... 
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #262:
+Rating      : 1
+Content     : Gotta be politically correct now with the plus size. They should rename that movie My Big Plus Size Greek Wedding 
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #263:
+Rating      : 1
+Content     : I believe a fuel surcharge is in order.
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #264:
+Rating      : 2
+Content     : So if I understand this cow correctly, HER comfort is more important than anyone else’s. How bout a freaking diet
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #265:
+Rating      : 1
+Content     : There is a big difference between plus sized, fat, and obese. She is obese. NOT plus sized.
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #266:
+Rating      : 1
+Content     : LOLcows, pay them no attention, Ive never seen them in business class.
+Tokens Used : 123
+Error Msg   : N/A
+
+Comment #267:
+Rating      : N/A
+Content     : I can't believe so many people care what this slob has to say.  Plane seats and accomodations are made for average people.  Most people who ride planes are not 300 lbs. I suggest loosing weight.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #268:
+Rating      : 1
+Content     : Ohhh, she likes her cakes, that one.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #269:
+Rating      : N/A
+Content     : Lose some weight (or a lot) - so you don't have to inconvenience others by spreading over an extra seat or two.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #270:
+Rating      : 2
+Content     : Stay away from foreign made food products! Sorry use only American made foods and then watch out for them!!!
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #271:
+Rating      : 2
+Content     : Stop feeding your children this kind of garbage. Learn how to prepare food and cook for your family. In other news, Colorado’s State Supreme Court has chosen to punish former President Trump for something that he hasn’t been convicted for. 
+Tokens Used : 153
+Error Msg   : N/A
+
+Comment #272:
+Rating      : 2
+Content     : Almost all food production is controlled by the Chinese. They have the knowledge and ability to create artificial eggs using gelatin and chemicals. It is unfortunate that no one has yet taken white eggs with thin shells for analysis.
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #273:
+Rating      : 2
+Content     : Ecuador is a mess. Currently Chinese people can enter Ecuador without a visa. Now they are migrating through the Darien Gap toward the Mexico Border with Venezuelans. The easiest place to ‘build a wall’ and security barrier is at the Panama Canal Zone. Only Panamanian citizens should be able to cross unencumbered. All other nationals from South America should require a visa to go from South Panama to North Panama…this scheme should help  lower the mobs of migrants at the southern border.
+Tokens Used : 207
+Error Msg   : N/A
+
+Comment #274:
+Rating      : 2
+Content     : I just bought an 8-pack of Instant Oatmeal manufactured in Chelyabinsk Russia for $2.99 at an ethnic food market in Albany (Indian). Soooooooooo exactly what kind of American is feeding their child Russian Oatmeal? Zero, and definitely not the Whelan Family….I know that for sure.  Who has the nerve to sell me the same oatmeal they feed Paul Whelan? We don’t want Russias fuel…food or fire fluid. Putin is a Poisoner. 
+Tokens Used : 212
+Error Msg   : N/A
+
+Comment #275:
+Rating      : 1
+Content     : Ecuador, a country well known for the lack of extreme intellect of its inhabitants. 
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #276:
+Rating      : 1
+Content     : President Biden being briefed on this only said 'Applesauce? Smell my finger'
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #277:
+Rating      : 1
+Content     : Profit is god. 
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #278:
+Rating      : 1
+Content     : Is the Ecuadorian plant owned/run by the Chinese?
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #279:
+Rating      : 1
+Content     : Yet another gift that keeps on giving.
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #280:
+Rating      : 1
+Content     : President Biden being briefed on this only said 'Applesauce? Smell my finger'
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #281:
+Rating      : 1
+Content     : Profit is god. 
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #282:
+Rating      : 1
+Content     : Is the Ecuadorian plant owned/run by the Chinese?
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #283:
+Rating      : 1
+Content     : Yet another gift that keeps on giving.
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #284:
+Rating      : 2
+Content     : Stay away from foreign made food products! Sorry use only American made foods and then watch out for them!!!
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #285:
+Rating      : 2
+Content     : Stop feeding your children this kind of garbage. Learn how to prepare food and cook for your family. In other news, Colorado’s State Supreme Court has chosen to punish former President Trump for something that he hasn’t been convicted for. 
+Tokens Used : 153
+Error Msg   : N/A
+
+Comment #286:
+Rating      : 2
+Content     : Almost all food production is controlled by the Chinese. They have the knowledge and ability to create artificial eggs using gelatin and chemicals. It is unfortunate that no one has yet taken white eggs with thin shells for analysis.
+Tokens Used : 148
+Error Msg   : N/A
+
+Comment #287:
+Rating      : 2
+Content     : Ecuador is a mess. Currently Chinese people can enter Ecuador without a visa. Now they are migrating through the Darien Gap toward the Mexico Border with Venezuelans. The easiest place to ‘build a wall’ and security barrier is at the Panama Canal Zone. Only Panamanian citizens should be able to cross unencumbered. All other nationals from South America should require a visa to go from South Panama to North Panama…this scheme should help  lower the mobs of migrants at the southern border.
+Tokens Used : 207
+Error Msg   : N/A
+
+Comment #288:
+Rating      : 2
+Content     : I just bought an 8-pack of Instant Oatmeal manufactured in Chelyabinsk Russia for $2.99 at an ethnic food market in Albany (Indian). Soooooooooo exactly what kind of American is feeding their child Russian Oatmeal? Zero, and definitely not the Whelan Family….I know that for sure.  Who has the nerve to sell me the same oatmeal they feed Paul Whelan? We don’t want Russias fuel…food or fire fluid. Putin is a Poisoner. 
+Tokens Used : 212
+Error Msg   : N/A
+
+Comment #289:
+Rating      : 2
+Content     : Ecuador, a country well known for the lack of extreme intellect of its inhabitants. 
+Tokens Used : 124
+Error Msg   : N/A
+
+Comment #290:
+Rating      : 1
+Content     : President Biden being briefed on this only said 'Applesauce? Smell my finger'
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #291:
+Rating      : 1
+Content     : Profit is god. 
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #292:
+Rating      : 1
+Content     : Is the Ecuadorian plant owned/run by the Chinese?
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #293:
+Rating      : 1
+Content     : Yet another gift that keeps on giving.
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #294:
+Rating      : 1
+Content     : Hey George,Close to %100 of the hard working folks in all manual labor work in factories and all commercial fields don't really smile and are not that happy. But they do it to support and sacrifice their lives for their families and others. Anyway I know someone who had everthing but still decided to end it. Maybe the world is cruel and gloomy and some folks would rather leave.
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #295:
+Rating      : 1
+Content     : Am I the only one who is fed up with being inundated with Matthew Perry, Harry & Meghan analysis why they are unhappy with their fame and monetary fortune?
+Tokens Used : 138
+Error Msg   : N/A
+
+Comment #296:
+Rating      : 1
+Content     : he died happy, there are worse ways to go.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #297:
+Rating      : 1
+Content     : Some ppl will never be happy. What else did he need? 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #298:
+Rating      : 1
+Content     : Happiness is an inside job
+Tokens Used : 112
+Error Msg   : N/A
+
+Comment #299:
+Rating      : 1
+Content     : He was looking for external validation for happiness and that never works. 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #300:
+Rating      : 1
+Content     : Did Perry have any real friends? Just malcontent. It happens 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #301:
+Rating      : 1
+Content     : Duh, addicts aren't happy George.
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #302:
+Rating      : 2
+Content     : Why does ole George have to bring up he knew him in the 90’s. Like seriously you met the guy and now know all his inner feelings. SMH 
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #303:
+Rating      : 1
+Content     : Ohhhh poor thing, he wasn't happy, but he sure got rich.
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #304:
+Rating      : 1
+Content     : Why does ole George have to bring up he knew him in the 90’s. Like seriously you met the guy and now know all his inner feelings. SMH 
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #305:
+Rating      : 1
+Content     : Ohhhh poor thing, he wasn't happy, but he sure got rich.
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #306:
+Rating      : 2
+Content     : Pot calling  the kettle black
+Tokens Used : 112
+Error Msg   : N/A
+
+Comment #307:
+Rating      : 1
+Content     : Hey George,Close to %100 of the hard working folks in all manual labor work in factories and all commercial fields don't really smile and are not that happy. But they do it to support and sacrifice their lives for their families and others. Anyway I know someone who had everthing but still decided to end it. Maybe the world is cruel and gloomy and some folks would rather leave.
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #308:
+Rating      : 1
+Content     : Am I the only one who is fed up with being inundated with Matthew Perry, Harry & Meghan analysis why they are unhappy with their fame and monetary fortune?
+Tokens Used : 138
+Error Msg   : N/A
+
+Comment #309:
+Rating      : 1
+Content     : he died happy, there are worse ways to go.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #310:
+Rating      : 1
+Content     : Some ppl will never be happy. What else did he need? 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #311:
+Rating      : 1
+Content     : Happiness is an inside job
+Tokens Used : 112
+Error Msg   : N/A
+
+Comment #312:
+Rating      : 1
+Content     : He was looking for external validation for happiness and that never works. 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #313:
+Rating      : 2
+Content     : Did Perry have any real friends? Just malcontent. It happens 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #314:
+Rating      : 2
+Content     : Duh, addicts aren't happy George.
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #315:
+Rating      : 1
+Content     : Why does ole George have to bring up he knew him in the 90’s. Like seriously you met the guy and now know all his inner feelings. SMH 
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #316:
+Rating      : 1
+Content     : Ohhhh poor thing, he wasn't happy, but he sure got rich.
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #317:
+Rating      : 1
+Content     : Pot calling  the kettle black
+Tokens Used : 112
+Error Msg   : N/A
+
+Comment #318:
+Rating      : 2
+Content     : Smart move by loyalist Werfel. Laying groundwork for an "extraordinary" Hunter exemption.
+Tokens Used : 126
+Error Msg   : N/A
+
+Comment #319:
+Rating      : 2
+Content     : Oh wow -- they are?!would that be because Biden's daughter got outed for owing back taxes, so now it's being 'legitimized' as no biggie?
+Tokens Used : 141
+Error Msg   : N/A
+
+Comment #320:
+Rating      : 2
+Content     : Another blatant vote grab
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #321:
+Rating      : 1
+Content     : So why do you need $87 Billion for more agents to collect taxes from people who do not pay their taxes?
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #322:
+Rating      : 2
+Content     : This should help the Biden Crime Family !!
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #323:
+Rating      : 2
+Content     : What joke this whole administration is. 
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #324:
+Rating      : 1
+Content     : As long as you didn't vote for Trump
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #325:
+Rating      : 2
+Content     : Joe and Hunter need this to forgive their tax.s  they did not pay!
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #326:
+Rating      : 2
+Content     : FJB is desperate for cash to pay for his corrupt failed policies. President Trump will reverse all the damage FJB has done after his reelection. Trump’s great poll numbers is fueling a resurgence in the stock market. This is a preview for better economic times to return under President Trump. FJB for trying to destroy our country. 
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #327:
+Rating      : 2
+Content     : let me guess. several Biden family members will benefit from this...."pay your fair share", UNLESS you owe a hundred K.
+Tokens Used : 133
+Error Msg   : N/A
+
+Comment #328:
+Rating      : 1
+Content     : Should call it the " Hunter Biden Act"
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #329:
+Rating      : 1
+Content     : 'Here's who qualifies' - those with last names Biden.
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #330:
+Rating      : 1
+Content     : House Oversight Committee must subpoena the encrypted communications devices (BlackBerry's) of Hunter Biden. Follow @RealGeorgeWebb1 on Twitter for the truth about the corruption.
+Tokens Used : 141
+Error Msg   : N/A
+
+Comment #331:
+Rating      : 1
+Content     : so this billion also includes Hunter tax too?
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #332:
+Rating      : 2
+Content     : Flat tax, keep it simple.  Less tax dollars. Money creates freedom.  Wake up. We know. Virtue signaling for the rich, or those that need govt handouts.  
+Tokens Used : 145
+Error Msg   : N/A
+
+Comment #333:
+Rating      : 2
+Content     : So what of the folks that paid? Can I have my money back or is it Ukraine? Less 10%? 
+Tokens Used : 131
+Error Msg   : N/A
+
+Comment #334:
+Rating      : 1
+Content     : Taxes? Dallas Taxes?
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #335:
+Rating      : 1
+Content     : So tax cheats get away with it.  Cool
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #336:
+Rating      : 2
+Content     : If President Biden, along with his son & daughter… do not pay full income taxes….why should we???
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #337:
+Rating      : 1
+Content     : Surprised if the IRS doesn't up the anti considering Hunter Biden ducked his $1.2 million tax bill. Sounds as though certain tax evaders are extended preferential treatment, depending on who they are. 
+Tokens Used : 149
+Error Msg   : N/A
+
+Comment #338:
+Rating      : 1
+Content     : That "19" in Covid-19 means the year 2019.  The "pandemic" was in full swing by the beginning of 2020.And yet the "IRS temporarily suspended mailing automated reminders to pay overdue tax bills during the pandemic, beginning in February 2022"They were sending the reminders during the pandemic for 2-years before they stopped.So they stopped "during" the pandemic, not because of the pandemic. At least they didn't say that. So WHY did they stop sending them?Two years in (2022) everyone (who survived) was back to business as usual, so what happened here?
+Tokens Used : 232
+Error Msg   : N/A
+
+Comment #339:
+Rating      : 1
+Content     : “People need to know the IRS is on their side,”
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #340:
+Rating      : 2
+Content     : they put a ton of new IRS agents to go after the little guy for pennies and they have the big guys on the hook and let them go for millions
+Tokens Used : 137
+Error Msg   : N/A
+
+Comment #341:
+Rating      : 1
+Content     : I want my taxes back. 
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #342:
+Rating      : 2
+Content     : Does the (fair share) big guy know about this?
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #343:
+Rating      : 2
+Content     : This is a step in the correct direction. However, as a tax preparer, I assure you that almost everything filed on paper forms during the shutdown has been mishandled. Massive penalties and interest have been accrued on pass-through entities for ‘failing to file an extension’.The IRS has charged folks for failure to file after cashing the checks that were in the envelope with the tax returns. They have either thrown away returns as they did in the late 1980’s or they've lost the return in their ‘system’.Regardless the IRS today does not have the half the talent they had when I was practicing as a CPA.The decline of the federal government’s purpose of serving us morphing into a heavy-handed feared force has been disenheartening to witness.This politicized heavy handedness is especially distressing having witnessed the unnecessary raids of homes of people who would have voluntarily picked up a warrant.The federal government and its favoritism of all leftists is psycho - and a major problem the government must be forced back to being fair - if it takes defunding and some mayhem - so be it.
+Tokens Used : 303
+Error Msg   : N/A
+
+Comment #344:
+Rating      : 1
+Content     : It's not tax forgiveness.  It's just the penalties. I did a 1099 during covid for the first time and Didnt pay the taxes on it. I owe them plus 20%   Now I can pay the 100% that I have and save the 20% penalty. It'll work as I am going to write the check this week and move on.  I don't thank Biden.  I thank the American people for letting me get back on Track and pay my fair share.  I owe it. I'll pay it.  It's just a nice feeling to not have to pay that 20%   Yea. I made a mistake.  Yes I should be in trouble.  But these days we are letting real dangerous criminals off with no penalty.  Why not us white collar tax cheats?  
+Tokens Used : 272
+Error Msg   : N/A
+
+Comment #345:
+Rating      : 3
+Content     : “People need to know the IRS is on their side” as they stab you in the back instead.
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #346:
+Rating      : 2
+Content     : Unbelievable. This is why the IRS should be abolished. Incompetence. Fickle enforcement, and armed IRS agents harassing the middle class. Of course, they are a reflection of the administration; Biden lecturing people on the rich paying their fair share while every one in his family are tax cheats and criminals. 
+Tokens Used : 172
+Error Msg   : N/A
+
+Comment #347:
+Rating      : 3
+Content     : Buying votes…
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #348:
+Rating      : 1
+Content     : The federal income tax started around WW1 and it was to be temporary and please correct me but  I believe the highest bracket was 1% with a 6% surcharge for those who made over $ 300k I believe 
+Tokens Used : 153
+Error Msg   : N/A
+
+Comment #349:
+Rating      : 1
+Content     : This is insane 
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #350:
+Rating      : 1
+Content     : Joe Biden and hunter 
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #351:
+Rating      : 1
+Content     : I just paid my quarterly yesterday. What an idiot I am. 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #352:
+Rating      : 1
+Content     : I just paid my quarterly yesterday. Does this mean I don't have to pay my taxes anymore? I should just owe and be forgiven?
+Tokens Used : 133
+Error Msg   : N/A
+
+Comment #353:
+Rating      : 1
+Content     : Joe Biden and hunter 
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #354:
+Rating      : 1
+Content     : I just paid my quarterly yesterday. What an idiot I am. 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #355:
+Rating      : 1
+Content     : I just paid my quarterly yesterday. Does this mean I don't have to pay my taxes anymore? I should just owe and be forgiven?
+Tokens Used : 133
+Error Msg   : N/A
+
+Comment #356:
+Rating      : 2
+Content     :  Don't pay your back taxes, No need to pay your student loans,  pauses on rent, Hey Santa is that you?
+Tokens Used : 131
+Error Msg   : N/A
+
+Comment #357:
+Rating      : 2
+Content     : An election year appeal to deadbeats as their student loan scheme got delayed.
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #358:
+Rating      : 2
+Content     : Waive what I owe and I'll vote Democrat. 
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #359:
+Rating      : 2
+Content     : With an election year coming up and Joe Biden sinking in the polls, this sounds like another Democrat vote-buying scheme. Funny how they complain about the "corrupting influence of money in politics" as a means to cut Republican funding but have no problem using money to "bribe" voters to vote for them. 
+Tokens Used : 171
+Error Msg   : N/A
+
+Comment #360:
+Rating      : 2
+Content     : Well , I guess Hunter and his sister will be included in this.  Amazing , they hire all these agents to tax the rich but then relieve them of this debt.  Something is fishy ! 
+Tokens Used : 147
+Error Msg   : N/A
+
+Comment #361:
+Rating      : 2
+Content     : Rewarding bad behaviorShould be the Biden platformThe powerful Oz determines which rules apply
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #362:
+Rating      : 2
+Content     : The IRS did not specify who approved this decision, but it may have been authorized by the IRS Commissioner or the Treasury Department. This is called the Hunter Biden Act.  The unelected swamp creatures are unbelievable. Want to bet Joe Biden had a hand in this. 
+Tokens Used : 160
+Error Msg   : N/A
+
+Comment #363:
+Rating      : 2
+Content     : Is this the reason the federal government hired 80,000 or so new IRS agents? I thought they were going to catch more people who cheat on their taxes, instead of finding ways to let them get out of paying what they owe. So we pay almost a billion dollars for new IRS agents and we end up rewarding those who don't pay....democratic party votes, bought and paid for on the backs of hard working people who do pay their taxes. These antics belong right up there with paying off student loans, hoping to be rewarded at the election polls. Biden's vote buying schemes continue.
+Tokens Used : 225
+Error Msg   : N/A
+
+Comment #364:
+Rating      : 1
+Content     : "The IRS is on your side"...
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #365:
+Rating      : 2
+Content     : The IRS is a PRIVATE organization PRETENDING to be a legitimate arm of the federal governmentThe FEDERAL RESERVE is a PRIVATE organization PRETENDING to be a legitimate arm of the federal government....and if u pay all your taxes, and have nothing to hide....you can trash them all you like! AHAHAHAHAHAHAHAHAHAHAH
+Tokens Used : 175
+Error Msg   : N/A
+
+Comment #366:
+Rating      : 1
+Content     : odd this comes out right after the story about Biden’s daughter owing back taxes and Hunter being investigated AGAIN for his sweetheart tax deal.
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #367:
+Rating      : 2
+Content     : So for those of us loyal citizens whose income is less than $100K and paid their taxes on time, do we get a tax rebate, or should we have followed Hunter’s lead in order to benefit from this IRS Action?
+Tokens Used : 152
+Error Msg   : N/A
+
+Comment #368:
+Rating      : 1
+Content     : WHO CONTROLS IRS?  Could be Joe Lieden?
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #369:
+Rating      : 1
+Content     : I know I know hire 87,000 more IRS agents and let them work from home la la la
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #370:
+Rating      : 2
+Content     : List reads like the Jeffery Epstein flight log.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #371:
+Rating      : 3
+Content     : Not fair that people that make that much money don't pay taxes. Why not say anyone who makes less than $400,000 while Biden or any democrat is in office does not have to pay taxes because they are all anti-American.
+Tokens Used : 152
+Error Msg   : N/A
+
+Comment #372:
+Rating      : 1
+Content     : Guess the first to qualify will be anyone whose last name is Biden!!
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #373:
+Rating      : 1
+Content     : The call it “The Biden Family Plan”!
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #374:
+Rating      : 2
+Content     : Biden's America: So now no pandemic tax collection, 135 billion yearly on illegal aliens,135 billion illegal giveaway for student unpaid loans,135 billion lost in illegal pandemic fraud,1 trillion yearly spent on illegal fentanyl overdose deathsbillions to enemy Iran,billions still sent yearly to enemy Afghanistan,billions funding foreign militaries,billions spent on foreign economies.
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #375:
+Rating      : 2
+Content     : Now that this scam is out in the open, how about we empty all the prisons, for the New Year. 
+Tokens Used : 130
+Error Msg   : N/A
+
+Comment #376:
+Rating      : 1
+Content     : I'm sorry but this is more of the same in my mind. Forgive college loans, give away all.  This does nothing to teach any kind of responsibility - the govt will take care of you.  I am fearful for the younger generations to come that have to deal with all this forgiveness.
+Tokens Used : 166
+Error Msg   : N/A
+
+Comment #377:
+Rating      : 2
+Content     : It's pretty hard for the IRS to be collecting penalties from people who struggle to pay back taxes when the president's own family are tax cheats making millions. This reminds me of all the people who paid their student loans while others where simply forgiven theirs.
+Tokens Used : 155
+Error Msg   : N/A
+
+Comment #378:
+Rating      : 2
+Content     : Now that this scam is out in the open, how about we empty all the prisons, for the New Year. 
+Tokens Used : 130
+Error Msg   : N/A
+
+Comment #379:
+Rating      : 1
+Content     : I'm sorry but this is more of the same in my mind. Forgive college loans, give away all.  This does nothing to teach any kind of responsibility - the govt will take care of you.  I am fearful for the younger generations to come that have to deal with all this forgiveness.
+Tokens Used : 166
+Error Msg   : N/A
+
+Comment #380:
+Rating      : 2
+Content     : It's pretty hard for the IRS to be collecting penalties from people who struggle to pay back taxes when the president's own family are tax cheats making millions. This reminds me of all the people who paid their student loans while others where simply forgiven theirs.
+Tokens Used : 155
+Error Msg   : N/A
+
+Comment #381:
+Rating      : 2
+Content     : The IRS & the Department of Injustice set the bar low with Hunter Biden for waiving penalties. I’m sure only Joe’s friends will qualify. 🔥💰🔥
+Tokens Used : 141
+Error Msg   : N/A
+
+Comment #382:
+Rating      : 1
+Content     : I paid my student loans off without missing a single payment. I worked hard so I wasn't eligible for the COVID checks. I pay my taxes in full on time every time. No govt rewards for the virtuous.
+Tokens Used : 149
+Error Msg   : N/A
+
+Comment #383:
+Rating      : 1
+Content     : "People need to know that the IRS is on their side." People also need to know car salesmen and politicians are honest. The stripper loves you for you and not the cash you are waving.
+Tokens Used : 146
+Error Msg   : N/A
+
+Comment #384:
+Rating      : 2
+Content     : cue the people calling this racist because poor POC won't be getting anything. 
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #385:
+Rating      : 1
+Content     : Notices? What notices? What a joke. IRS knows the USPS is unreliable trash. My post office delivers mail to wrong addresses. all over town. Yesterday my nextdoor neighbor, whose been logging in Maine for 2 months, just brought me a bag of my mail that included a soggy letter from the DMV with the title to my truck I finaly paid my off loan to. The NY DMV mailed it out 5 weeks ago. Maybe the IRS figured out people ain't lyin' when they say they never got no stinkin notices.
+Tokens Used : 217
+Error Msg   : N/A
+
+Comment #386:
+Rating      : 2
+Content     : “People need to know the IRS is on their side" !The Biden Crime  Family Is Well Aware Of This !What community will feel offended by my comment ?
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #387:
+Rating      : 2
+Content     : The IRS is certainly on Trumps side!
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #388:
+Rating      : 2
+Content     : I received a bill in Nov of this year, I was charged $21.76 interest for 2022 taxes I filed in Feb 23. My salary in 22 was $69k. Due date was 12/25 CHRISTMAS day. Not making this up. If you think the government is not out to destroy the working man, think again.
+Tokens Used : 179
+Error Msg   : N/A
+
+Comment #389:
+Rating      : 1
+Content     : HUM, I thought the additional $80,000,000,000 Biden and DEM's sent to the IRS was to collect taxes. Why are they waiving $1,000,000,000 in fines for not paying taxes. That's right, I forgot, it's ONLY for those who owe OVER $100,000, just the wealthy people.
+Tokens Used : 177
+Error Msg   : N/A
+
+Comment #390:
+Rating      : 1
+Content     : The IRS has never been my friend. Example:  one year they refunded what I paid on my 1040. I called and was told that I was owed the money. Three months later, I received a letter demanding payment of those taxes with penalty and interest charged. After 4 phone calls, 3 letters, and an email complaint to the Treasury Inspector General for Tax Administration (TIGTA), the matter was resolved. I paid what I originally owed and no more.
+Tokens Used : 203
+Error Msg   : N/A
+
+Comment #391:
+Rating      : 2
+Content     : Why do I go to work, oboey the law, and pay my taxes on time? This is now a country where those things are meaningless. Want a college education? No problem... just take out $100,000 in loans and let the taxpayers pay it back. Want to start a business without any experience or money? Just apply for COVID money and pay yourself a nice salary until it goes belly up. The trouble with America today is that there are zero CONSEQUENCES for anybody's actions. Want to rob old ladies instead of working for your money, don't worry, some equity-hire of a D.A. will let you off with community service.
+Tokens Used : 240
+Error Msg   : N/A
+
+Comment #392:
+Rating      : 1
+Content     : So Democrats claim that our budget deficit is a terrible problem but yet they are willing to waive all these fees?
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #393:
+Rating      : 2
+Content     : Unless the US tax code is scrapped and totally rebuilt, nothing can ever be truly fixed in this country. There is no way the US debt can be ever paid off under the current code.Anyone who thinks otherwise is simply fooling themselves or delusional.
+Tokens Used : 159
+Error Msg   : N/A
+
+Comment #394:
+Rating      : 2
+Content     : Hmm wonder if they will be that aggressive with the Biden family?
+Tokens Used : 119
+Error Msg   : N/A
+
+Comment #395:
+Rating      : 2
+Content     : You must show a democrat voter registration to apply.If last name Biden you do not need to pay any taxes.
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #396:
+Rating      : 2
+Content     : Please let me know when illegal alien freeloaders start paying their fair share of taxes. 
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #397:
+Rating      : 1
+Content     : WOW that's great news for Biden's daughter. I bet she's breathing a sigh of relief right about now. 
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #398:
+Rating      : 2
+Content     : Great... so firms with attorneys will figure out how to get this tax forgiveness, while middle-class workers make up the difference.
+Tokens Used : 131
+Error Msg   : N/A
+
+Comment #399:
+Rating      : 1
+Content     : If people paid the failure-to-pay penalty, they will get a refund, Werfel said on a call with reporters. “People need to know the IRS is on their side,” he said.Say what? When did this happen. I don't recall getting the memo.
+Tokens Used : 160
+Error Msg   : N/A
+
+Comment #400:
+Rating      : 1
+Content     : Was this an executive order from Dementia Joe? Apparently, his whole family doesn't pay taxes.
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #401:
+Rating      : 1
+Content     : Who qualifies?  Hunter for one, he hasn’t paid taxes so waiving the fees is a huge help to him and the Biden crime empire!  C’mon man, we who are working 2 jobs to pay for food and gas can afford it!  
+Tokens Used : 160
+Error Msg   : N/A
+
+Comment #402:
+Rating      : 1
+Content     : After reading the article, it looks like only the late payment fees are being forgiven.The taxpayer is still responsible for their tax liability.Since the government usually charges higher fees than your average mobster, I don’t necessarily disagree with forgiving the outrageous fees that the IRS charge.As a father who recently put two daughters through NYU, I know the costs associated. I did not take government student loans because their interest rates were so high that I could get much lower rates on the street.While I oppose the blanket forgiveness of student loans, I do think that something needs to be done about the high compounding interest they carry. That is what people need help with.
+Tokens Used : 238
+Error Msg   : N/A
+
+Comment #403:
+Rating      : 2
+Content     : Great... so firms with attorneys will figure out how to get this tax forgiveness, while middle-class workers make up the difference.
+Tokens Used : 131
+Error Msg   : N/A
+
+Comment #404:
+Rating      : 1
+Content     : If people paid the failure-to-pay penalty, they will get a refund, Werfel said on a call with reporters. “People need to know the IRS is on their side,” he said.Say what? When did this happen. I don't recall getting the memo.
+Tokens Used : 160
+Error Msg   : N/A
+
+Comment #405:
+Rating      : 2
+Content     : Was this an executive order from Dementia Joe? Apparently, his whole family doesn't pay taxes.
+Tokens Used : 125
+Error Msg   : N/A
+
+Comment #406:
+Rating      : 1
+Content     : Who qualifies?  Hunter for one, he hasn’t paid taxes so waiving the fees is a huge help to him and the Biden crime empire!  C’mon man, we who are working 2 jobs to pay for food and gas can afford it!  
+Tokens Used : 160
+Error Msg   : N/A
+
+Comment #407:
+Rating      : 1
+Content     : After reading the article, it looks like only the late payment fees are being forgiven.The taxpayer is still responsible for their tax liability.Since the government usually charges higher fees than your average mobster, I don’t necessarily disagree with forgiving the outrageous fees that the IRS charge.As a father who recently put two daughters through NYU, I know the costs associated. I did not take government student loans because their interest rates were so high that I could get much lower rates on the street.While I oppose the blanket forgiveness of student loans, I do think that something needs to be done about the high compounding interest they carry. That is what people need help with.
+Tokens Used : 238
+Error Msg   : N/A
+
+Comment #408:
+Rating      : 1
+Content     : People need to know the IRS is on their side. And that Santa Claus will bring me everything on my wish list again this year and the Tooth Fairy now leaves 100 dollars per tooth. 
+Tokens Used : 145
+Error Msg   : N/A
+
+Comment #409:
+Rating      : 2
+Content     : This makes absolutely no sense.  Tell me, what incentive is there for everyday people to pay their taxes?  I am so fed up with getting the shaft from Joey Two Times.
+Tokens Used : 143
+Error Msg   : N/A
+
+Comment #410:
+Rating      : 2
+Content     : Are Sharpton and Hunter at the top of the list ?
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #411:
+Rating      : 1
+Content     : So I am a sucker for paying taxes?
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #412:
+Rating      : 2
+Content     : Will the most amazing, responsible, intelligent hunter biden be forgiven for his debt? How about my man al Sharpton or blm?
+Tokens Used : 134
+Error Msg   : N/A
+
+Comment #413:
+Rating      : 2
+Content     : Who qualifies?   Democratic donors.  That's who.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #414:
+Rating      : 2
+Content     : Just do a Biden family act, don't file, don't pay taxes you pay enough now supporting a swamp of corruption.   When the rule of law returns for all, then pay. Use Jim Biden's famous quote, "plausible deniability".
+Tokens Used : 157
+Error Msg   : N/A
+
+Comment #415:
+Rating      : 1
+Content     : Pretty sure Revenue Agents (tax) and Revenue Officers (Collection) show up at your door and auditors call you in to the IRS office or conduct correspondence audits via mail.  It could have changed.
+Tokens Used : 146
+Error Msg   : N/A
+
+Comment #416:
+Rating      : 1
+Content     : The Hunter rule?
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #417:
+Rating      : 2
+Content     : Money means nothing to these politicians….it’s crazy…they need all the revenue they can get to fund their generous loan forgiveness and social programs.
+Tokens Used : 135
+Error Msg   : N/A
+
+Comment #418:
+Rating      : 1
+Content     : I once questioned the IRS for being audited and the answer that the auditor gave me left me perplexed.  He stated that there is system where a machine is used to select the person who is going to be audited.  It so happened that my name fell out and that was why I was audited.
+Tokens Used : 167
+Error Msg   : N/A
+
+Comment #419:
+Rating      : 2
+Content     : Ahhh,the irs. The new military branch of the globalist left...
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #420:
+Rating      : 1
+Content     : I wonder why my comment was rejected.... Post getting scared 🤣🤣🤣🤣
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #421:
+Rating      : 2
+Content     : Amazing how the IRS comes out with this penalty forgiveness policy just days after it is reported that President Biden's daughter owes back taxes and son Hunter is being prosecuted for failure to pay his taxes.  Just a coincidence.  hummmm>??
+Tokens Used : 154
+Error Msg   : N/A
+
+Comment #422:
+Rating      : 1
+Content     : The Bidens
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #423:
+Rating      : 2
+Content     : They only did it to provide cover for Hunter.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #424:
+Rating      : 2
+Content     : Income tax was supposed to be temporary. It's a scam and unconstitutional 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #425:
+Rating      : 1
+Content     : Oh, baloney. Another give away to the favored few. Pay up, like everyone else!!!
+Tokens Used : 126
+Error Msg   : N/A
+
+Comment #426:
+Rating      : 2
+Content     : No student loans to pay back, owe the IRS $, forget about it? When is it my turn to forget my bank payment? I owe them $ for my house, oh and the car company, I bought a new car, and I want to go on a vacation so I will charge it to my cc and then I won't pay that either! God help America and the lazy generation coming up...
+Tokens Used : 186
+Error Msg   : N/A
+
+Comment #427:
+Rating      : 2
+Content     : Get those cheats!
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #428:
+Rating      : 2
+Content     : The Bidens
+Tokens Used : 109
+Error Msg   : N/A
+
+Comment #429:
+Rating      : 2
+Content     : They only did it to provide cover for Hunter.
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #430:
+Rating      : 2
+Content     : Income tax was supposed to be temporary. It's a scam and unconstitutional 
+Tokens Used : 120
+Error Msg   : N/A
+
+Comment #431:
+Rating      : 2
+Content     : Oh, baloney. Another give away to the favored few. Pay up, like everyone else!!!
+Tokens Used : 126
+Error Msg   : N/A
+
+Comment #432:
+Rating      : 1
+Content     : No student loans to pay back, owe the IRS $, forget about it? When is it my turn to forget my bank payment? I owe them $ for my house, oh and the car company, I bought a new car, and I want to go on a vacation so I will charge it to my cc and then I won't pay that either! God help America and the lazy generation coming up...
+Tokens Used : 186
+Error Msg   : N/A
+
+Comment #433:
+Rating      : 2
+Content     : Get those cheats!
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #434:
+Rating      : 2
+Content     : Get those cheats!
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #435:
+Rating      : 2
+Content     : Smart move by loyalist Werfel. Laying groundwork for an "extraordinary" Hunter exemption.
+Tokens Used : 126
+Error Msg   : N/A
+
+Comment #436:
+Rating      : 1
+Content     : Oh wow -- they are?!would that be because Biden's daughter got outed for owing back taxes, so now it's being 'legitimized' as no biggie?
+Tokens Used : 141
+Error Msg   : N/A
+
+Comment #437:
+Rating      : 2
+Content     : Another blatant vote grab
+Tokens Used : 110
+Error Msg   : N/A
+
+Comment #438:
+Rating      : 1
+Content     : So why do you need $87 Billion for more agents to collect taxes from people who do not pay their taxes?
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #439:
+Rating      : 2
+Content     : This should help the Biden Crime Family !!
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #440:
+Rating      : 2
+Content     : What joke this whole administration is. 
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #441:
+Rating      : 2
+Content     : As long as you didn't vote for Trump
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #442:
+Rating      : 2
+Content     : Joe and Hunter need this to forgive their tax.s  they did not pay!
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #443:
+Rating      : 2
+Content     : FJB is desperate for cash to pay for his corrupt failed policies. President Trump will reverse all the damage FJB has done after his reelection. Trump’s great poll numbers is fueling a resurgence in the stock market. This is a preview for better economic times to return under President Trump. FJB for trying to destroy our country. 
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #444:
+Rating      : 2
+Content     : let me guess. several Biden family members will benefit from this...."pay your fair share", UNLESS you owe a hundred K.
+Tokens Used : 133
+Error Msg   : N/A
+
+Comment #445:
+Rating      : 1
+Content     : Should call it the " Hunter Biden Act"
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #446:
+Rating      : 2
+Content     : 'Here's who qualifies' - those with last names Biden.
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #447:
+Rating      : 2
+Content     : House Oversight Committee must subpoena the encrypted communications devices (BlackBerry's) of Hunter Biden. Follow @RealGeorgeWebb1 on Twitter for the truth about the corruption.
+Tokens Used : 141
+Error Msg   : N/A
+
+Comment #448:
+Rating      : 1
+Content     : so this billion also includes Hunter tax too?
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #449:
+Rating      : 1
+Content     : Flat tax, keep it simple.  Less tax dollars. Money creates freedom.  Wake up. We know. Virtue signaling for the rich, or those that need govt handouts.  
+Tokens Used : 145
+Error Msg   : N/A
+
+Comment #450:
+Rating      : 2
+Content     : So what of the folks that paid? Can I have my money back or is it Ukraine? Less 10%? 
+Tokens Used : 131
+Error Msg   : N/A
+
+Comment #451:
+Rating      : 1
+Content     : Taxes? Dallas Taxes?
+Tokens Used : 111
+Error Msg   : N/A
+
+Comment #452:
+Rating      : 1
+Content     : So tax cheats get away with it.  Cool
+Tokens Used : 116
+Error Msg   : N/A
+
+Comment #453:
+Rating      : 2
+Content     : If President Biden, along with his son & daughter… do not pay full income taxes….why should we???
+Tokens Used : 128
+Error Msg   : N/A
+
+Comment #454:
+Rating      : 2
+Content     : Surprised if the IRS doesn't up the anti considering Hunter Biden ducked his $1.2 million tax bill. Sounds as though certain tax evaders are extended preferential treatment, depending on who they are. 
+Tokens Used : 149
+Error Msg   : N/A
+
+Comment #455:
+Rating      : 1
+Content     : That "19" in Covid-19 means the year 2019.  The "pandemic" was in full swing by the beginning of 2020.And yet the "IRS temporarily suspended mailing automated reminders to pay overdue tax bills during the pandemic, beginning in February 2022"They were sending the reminders during the pandemic for 2-years before they stopped.So they stopped "during" the pandemic, not because of the pandemic. At least they didn't say that. So WHY did they stop sending them?Two years in (2022) everyone (who survived) was back to business as usual, so what happened here?
+Tokens Used : 232
+Error Msg   : N/A
+
+Comment #456:
+Rating      : 1
+Content     : “People need to know the IRS is on their side,”
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #457:
+Rating      : 2
+Content     : they put a ton of new IRS agents to go after the little guy for pennies and they have the big guys on the hook and let them go for millions
+Tokens Used : 137
+Error Msg   : N/A
+
+Comment #458:
+Rating      : 1
+Content     : I want my taxes back. 
+Tokens Used : 113
+Error Msg   : N/A
+
+Comment #459:
+Rating      : 2
+Content     : Does the (fair share) big guy know about this?
+Tokens Used : 118
+Error Msg   : N/A
+
+Comment #460:
+Rating      : 1
+Content     : Save the money and sign Trevor Bauer. No brainer
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #461:
+Rating      : 2
+Content     : What a waste of 💰! Does the contract include a tube of KY Jelly for the owner who signs him ?
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #462:
+Rating      : 1
+Content     : Yanks, just get Jordan and trade for Cease; will be better off. He has a very small built and will probably break down.
+Tokens Used : 135
+Error Msg   : N/A
+
+Comment #463:
+Rating      : 1
+Content     : Jury is out on this one it's either greatness, or bust no in between. Pitching in Japan I believe he will find is a lot easier to have good results than pitching in the MLB 
+Tokens Used : 146
+Error Msg   : N/A
+
+Comment #464:
+Rating      : 2
+Content     : That liberal trash city of San Francisco deserves to lose out on players. 
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #465:
+Rating      : 1
+Content     : Unless he has a vehicle (infinity) in the Bronx, the editor may want to change that alleged quote to "affinity".  Just saying.
+Tokens Used : 137
+Error Msg   : N/A
+
+Comment #466:
+Rating      : 2
+Content     : “The perception of crime and drugs “ is real and so is the dystopian landscape of human waste on the streets.Tell it to governor Tom Slick.
+Tokens Used : 136
+Error Msg   : N/A
+
+Comment #467:
+Rating      : 1
+Content     : Funny that a MLB Cy Young winner has to wait for a Japanese player to sign, who mind you has not ever pitched in MLB, before he gets his contract. 
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #468:
+Rating      : 1
+Content     : If the Yankees win and sign Yamamoto to this reported record contract and it doesn't pan out what a disaster it will be for them, or anyone else, this is getting out of control.
+Tokens Used : 144
+Error Msg   : N/A
+
+Comment #469:
+Rating      : 2
+Content     : Call me crazy or Captain Obvious, but when the Dodgers strike a deal with Ohtani to defer the majority of his contract, it would appear "the fix is in," with the fix being Yammamoto
+Tokens Used : 149
+Error Msg   : N/A
+
+Comment #470:
+Rating      : 1
+Content     : If the Yankees win and sign Yamamoto to this reported record contract and it doesn't pan out what a disaster it will be for them, or anyone else, this is getting out of control.
+Tokens Used : 144
+Error Msg   : N/A
+
+Comment #471:
+Rating      : 1
+Content     : Call me crazy or Captain Obvious, but when the Dodgers strike a deal with Ohtani to defer the majority of his contract, it would appear "the fix is in," with the fix being Yammamoto
+Tokens Used : 149
+Error Msg   : N/A
+
+Comment #472:
+Rating      : 1
+Content     : SF is a great example of a failing city and the Yamamoto sweepstakes have officially jumped the shark. Whether he goes to the Yankees, Dodgers, Mets, Red Sox,Philly or elsewhere its no guaranteehe's going to be match the hype surrounding him.  He's an accomplished stud prospect, but he's still a prospect. Paying him $300M is good for him, not necessarily good for the team that signs him. Pitcher's get hurt a lot.
+Tokens Used : 199
+Error Msg   : N/A
+
+Comment #473:
+Rating      : 1
+Content     : NYC not much better.  Point is--any big democratic city is a mess, so cross those off the list.  
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #474:
+Rating      : 2
+Content     : If NY is the dump, LA is the landfill and San Fran is the abyss
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #475:
+Rating      : 2
+Content     : More killings in NY city than Sf & LA combined.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #476:
+Rating      : 1
+Content     : More killings in NY city than Sf & LA combined.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #477:
+Rating      : 1
+Content     : Save the money and sign Trevor Bauer. No brainer
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #478:
+Rating      : 2
+Content     : What a waste of 💰! Does the contract include a tube of KY Jelly for the owner who signs him ?
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #479:
+Rating      : 2
+Content     : Yanks, just get Jordan and trade for Cease; will be better off. He has a very small built and will probably break down.
+Tokens Used : 135
+Error Msg   : N/A
+
+Comment #480:
+Rating      : 1
+Content     : Jury is out on this one it's either greatness, or bust no in between. Pitching in Japan I believe he will find is a lot easier to have good results than pitching in the MLB 
+Tokens Used : 146
+Error Msg   : N/A
+
+Comment #481:
+Rating      : 2
+Content     : That liberal trash city of San Francisco deserves to lose out on players. 
+Tokens Used : 121
+Error Msg   : N/A
+
+Comment #482:
+Rating      : 1
+Content     : Unless he has a vehicle (infinity) in the Bronx, the editor may want to change that alleged quote to "affinity".  Just saying.
+Tokens Used : 137
+Error Msg   : N/A
+
+Comment #483:
+Rating      : 2
+Content     : “The perception of crime and drugs “ is real and so is the dystopian landscape of human waste on the streets.Tell it to governor Tom Slick.
+Tokens Used : 136
+Error Msg   : N/A
+
+Comment #484:
+Rating      : 1
+Content     : Funny that a MLB Cy Young winner has to wait for a Japanese player to sign, who mind you has not ever pitched in MLB, before he gets his contract. 
+Tokens Used : 140
+Error Msg   : N/A
+
+Comment #485:
+Rating      : 1
+Content     : If the Yankees win and sign Yamamoto to this reported record contract and it doesn't pan out what a disaster it will be for them, or anyone else, this is getting out of control.
+Tokens Used : 144
+Error Msg   : N/A
+
+Comment #486:
+Rating      : 1
+Content     : Call me crazy or Captain Obvious, but when the Dodgers strike a deal with Ohtani to defer the majority of his contract, it would appear "the fix is in," with the fix being Yammamoto
+Tokens Used : 149
+Error Msg   : N/A
+
+Comment #487:
+Rating      : 1
+Content     : SF is a great example of a failing city and the Yamamoto sweepstakes have officially jumped the shark. Whether he goes to the Yankees, Dodgers, Mets, Red Sox,Philly or elsewhere its no guaranteehe's going to be match the hype surrounding him.  He's an accomplished stud prospect, but he's still a prospect. Paying him $300M is good for him, not necessarily good for the team that signs him. Pitcher's get hurt a lot.
+Tokens Used : 199
+Error Msg   : N/A
+
+Comment #488:
+Rating      : 1
+Content     : NYC not much better.  Point is--any big democratic city is a mess, so cross those off the list.  
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #489:
+Rating      : 2
+Content     : If NY is the dump, LA is the landfill and San Fran is the abyss
+Tokens Used : 122
+Error Msg   : N/A
+
+Comment #490:
+Rating      : 2
+Content     : More killings in NY city than Sf & LA combined.
+Tokens Used : 117
+Error Msg   : N/A
+
+Comment #491:
+Rating      : 1
+Content     : I don't buy gifts for teachers. It's ludicrous that they expect gift cards and other gifts for doing their jobs. No customers buy me gifts for keeping their power on or fixing any number of household issues I'm called on to fix. But they pay you for that so....Yeah, and teachers get paid for their jobs as well. I also don't get my summers off every year, nor am I expected to kick up $10-$20 for stuff every other month.
+Tokens Used : 200
+Error Msg   : N/A
+
+Comment #492:
+Rating      : 1
+Content     : Tis the season for greed.  
+Tokens Used : 114
+Error Msg   : N/A
+
+Comment #493:
+Rating      : 1
+Content     : A wonderful gift would be Weingarten’s visage on the mantle - a reminder of their wonderful fearless leader
+Tokens Used : 127
+Error Msg   : N/A
+
+Comment #494:
+Rating      : 1
+Content     : Well now I've heard everything. Not many moms can afford a $50 gift card, some kids have more than one teacher. Make homemade cake or cookies or get gloves or a scarf. It is the thought that counts. Merry Christmas all!! 
+Tokens Used : 155
+Error Msg   : N/A
+
+Comment #495:
+Rating      : 2
+Content     : As soon as I saw a tik tok video embedded, I clicked the X in the top right corner.  Nothing good comes from tik tok, unless you work for the chinese government.  
+Tokens Used : 144
+Error Msg   : N/A
+
+Comment #496:
+Rating      : 1
+Content     : "You'll get nothing and like it!!"
+Tokens Used : 115
+Error Msg   : N/A
+
+Comment #497:
+Rating      : 2
+Content     : "...teaches are of course grateful for any gift they receive - but..."Evidently not.
+Tokens Used : 126
+Error Msg   : N/A
+
+Comment #498:
+Rating      : 1
+Content     : How about they take what they get like everyone else.  You think I wanted a hoodie with a company logo from my boss???
+Tokens Used : 132
+Error Msg   : N/A
+
+Comment #499:
+Rating      : 1
+Content     : I stopped giving teacher gifts many years ago when one had the audacity to send out an Amazon wish list. 
+Tokens Used : 129
+Error Msg   : N/A
+
+Comment #500:
+Rating      : 1
+Content     : Do YOU want some questionable homemade baked good or a handknit scarf? Multiply that by 20+ students, at least in elementary school, that’s a lot of baked goods that will get dumped in the teachers lounge. Also, chances are you are neither an amazing baker or knitter, despite what you think. And for all the quibbles over the amount, multiple teachers, etc. Do you get a bonus, do you quibble over tipping your postal person, hair stylist, garbage man/woman, doorman, people that are not helping raise your children? Lots of plumbers/electricians/service people get extra cash and gift cards this time of year from their regulars.The only one I understand her list is the Starbucks card, because every teacher I know likes and uses them because the coffee in the teachers lounge is awful and you can get some ok food options. Heck, one teacher I know appreciates them because she in turn can regift or use to buy gifts.And no, I’m not nor ever have been a teacher. I’d just rather give them something they want and can use vs something I think they should want or worse, that they should be simply grateful to receive.
+Tokens Used : 325
+Error Msg   : N/A
+
+===== Total Tokens Used: 61430 =====

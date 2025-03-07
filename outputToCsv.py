@@ -93,8 +93,8 @@ def parse_comments(file_content):
 
 
 def main():
-    input_file = "./results/comments/output_05.txt"
-    output_file = "./results/comments/output_05.csv"
+    input_file = "./results/comments/output_06.txt"
+    output_file = "./results/comments/output_06.csv"
     with open(input_file, "r", encoding="utf-8") as f:
         file_content = f.read()
     comments = parse_comments(file_content)

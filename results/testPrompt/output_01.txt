@@ -1,0 +1,602 @@
+===== Final Results =====
+Comment #1:
+Rating      : 2
+Content     : I thought he was alright then I saw that photo of him planning the proposal and lost all respect for him. He's just another attention seeking clown. Hopefully he's smart enough to make her sign a prenup. 
+Tokens Used : 209
+Error Msg   : N/A
+
+Comment #2:
+Rating      : 1
+Content     : Good for them. Seem like a nice couple.
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #3:
+Rating      : 1
+Content     : Luka is the man!  Go Mavs!
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #4:
+Rating      : 1
+Content     : Luka is my sons favorite player but he’s a cry baby 
+Tokens Used : 181
+Error Msg   : N/A
+
+Comment #5:
+Rating      : 1
+Content     : He's got himself a keeper.  Unlike a lot of WAGS she's not addicted to attention, and truly has his best interests at heart.
+Tokens Used : 195
+Error Msg   : N/A
+
+Comment #6:
+Rating      : 2
+Content     : I thought he was alright then I saw that photo of him planning the proposal and lost all respect for him. He's just another attention seeking clown. Hopefully he's smart enough to make her sign a prenup. 
+Tokens Used : 209
+Error Msg   : N/A
+
+Comment #7:
+Rating      : 1
+Content     : Good for them. Seem like a nice couple.
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #8:
+Rating      : 1
+Content     : Luka is the man!  Go Mavs!
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #9:
+Rating      : 1
+Content     : Luka is my sons favorite player but he’s a cry baby 
+Tokens Used : 181
+Error Msg   : N/A
+
+Comment #10:
+Rating      : 1
+Content     : He's got himself a keeper.  Unlike a lot of WAGS she's not addicted to attention, and truly has his best interests at heart.
+Tokens Used : 195
+Error Msg   : N/A
+
+Comment #11:
+Rating      : N/A
+Content     : She's a "Vision".  All two bucks eighty.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': True, 'severity': 'medium'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #12:
+Rating      : 2
+Content     : Lizzo in all of us. Give them a 3 pak window-to aisle!
+Tokens Used : 184
+Error Msg   : N/A
+
+Comment #13:
+Rating      : 1
+Content     : "FAT". The word is "fat". Not "plus-sized". Fat, fat, fat.
+Tokens Used : 188
+Error Msg   : N/A
+
+Comment #14:
+Rating      : 1
+Content     : They might want to consult an engineer about the structural integrity of that swing.
+Tokens Used : 182
+Error Msg   : N/A
+
+Comment #15:
+Rating      : N/A
+Content     : I'm tired of these people. Just lose some weight - problem solved 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #16:
+Rating      : 2
+Content     : My Mom always said that if you cant say anything  nice, dont say anything  at all. Sorry Mom! She needs to go on a damn diet!😩
+Tokens Used : 201
+Error Msg   : N/A
+
+Comment #17:
+Rating      : 2
+Content     : Imagine your horror as she squeezes down the aisle and stops at your row...
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #18:
+Rating      : 1
+Content     : I say anybody over 200 pounds should buy two seats on any airplane.  
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #19:
+Rating      : 1
+Content     : She’s not really on that swing. That thing had to be Photoshopped.  
+Tokens Used : 185
+Error Msg   : N/A
+
+Comment #20:
+Rating      : 1
+Content     : The funny thing is they had a separate area for “plus sizes”They would complain about that too!
+Tokens Used : 188
+Error Msg   : N/A
+
+Comment #21:
+Rating      : 1
+Content     : My Mom always said that if you cant say anything  nice, dont say anything  at all. Sorry Mom! She needs to go on a damn diet!😩
+Tokens Used : 201
+Error Msg   : N/A
+
+Comment #22:
+Rating      : 2
+Content     : Imagine your horror as she squeezes down the aisle and stops at your row...
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #23:
+Rating      : 1
+Content     : I say anybody over 200 pounds should buy two seats on any airplane.  
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #24:
+Rating      : 1
+Content     : She’s not really on that swing. That thing had to be Photoshopped.  
+Tokens Used : 185
+Error Msg   : N/A
+
+Comment #25:
+Rating      : 1
+Content     : The funny thing is they had a separate area for “plus sizes”They would complain about that too!
+Tokens Used : 188
+Error Msg   : N/A
+
+Comment #26:
+Rating      : N/A
+Content     : Fat will equal fatal if you don't control yourself. We'll see in the next few years what happens to these people who are allergic to self control.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #27:
+Rating      : 1
+Content     : Skinny people should have rights too.
+Tokens Used : 175
+Error Msg   : N/A
+
+Comment #28:
+Rating      : 3
+Content     : "How much room" she'll have in her economy seat??? EXACTLY how much room  everyone has in economy seats! Oh, I forgot, because of THEIR lifestyle choices, they are used to usurping and spreading into the space of another paying passenger...
+Tokens Used : 219
+Error Msg   : N/A
+
+Comment #29:
+Rating      : 2
+Content     : She is NOT "plus-sized." She is FULLY two or three people.
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #30:
+Rating      : 1
+Content     : I thought that pigs don't fly.
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #31:
+Rating      : 1
+Content     : I’m imagining me sitting in a window seat and an open seat next to me.   With the boarding door about to close…..
+Tokens Used : 193
+Error Msg   : N/A
+
+Comment #32:
+Rating      : 2
+Content     : They need a airline just for plus sized people. Some of them smell.... 
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #33:
+Rating      : 2
+Content     : Gotta be politically correct now with the plus size. They should rename that movie My Big Plus Size Greek Wedding 
+Tokens Used : 190
+Error Msg   : N/A
+
+Comment #34:
+Rating      : 1
+Content     : I believe a fuel surcharge is in order.
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #35:
+Rating      : 2
+Content     : So if I understand this cow correctly, HER comfort is more important than anyone else’s. How bout a freaking diet
+Tokens Used : 190
+Error Msg   : N/A
+
+Comment #36:
+Rating      : 2
+Content     : There is a big difference between plus sized, fat, and obese. She is obese. NOT plus sized.
+Tokens Used : 189
+Error Msg   : N/A
+
+Comment #37:
+Rating      : 2
+Content     : LOLcows, pay them no attention, Ive never seen them in business class.
+Tokens Used : 184
+Error Msg   : N/A
+
+Comment #38:
+Rating      : N/A
+Content     : I can't believe so many people care what this slob has to say.  Plane seats and accomodations are made for average people.  Most people who ride planes are not 300 lbs. I suggest loosing weight.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #39:
+Rating      : 1
+Content     : Ohhh, she likes her cakes, that one.
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #40:
+Rating      : N/A
+Content     : Lose some weight (or a lot) - so you don't have to inconvenience others by spreading over an extra seat or two.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #41:
+Rating      : 2
+Content     : Thermodynamics dont lie.  Fat=energy and she is taking in way more than she's using.  Shame on her.
+Tokens Used : 193
+Error Msg   : N/A
+
+Comment #42:
+Rating      : 1
+Content     : Just disgusting.
+Tokens Used : 170
+Error Msg   : N/A
+
+Comment #43:
+Rating      : 2
+Content     : Maybe they should charge Reds by the pound.
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #44:
+Rating      : 1
+Content     : Not plus sized; obese. 
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #45:
+Rating      : 2
+Content     : I'm normal size and no one has ever side-eyed or scolded me for sprawling across empty plane seats. I am very polite and respectful before I hog the seats myself haha. I do think larger folks get scrutinised.
+Tokens Used : 212
+Error Msg   : N/A
+
+Comment #46:
+Rating      : 1
+Content     : Just disgusting.
+Tokens Used : 170
+Error Msg   : N/A
+
+Comment #47:
+Rating      : 2
+Content     : Maybe they should charge Reds by the pound.
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #48:
+Rating      : 1
+Content     : Not plus sized; obese. 
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #49:
+Rating      : 2
+Content     : I'm normal size and no one has ever side-eyed or scolded me for sprawling across empty plane seats. I am very polite and respectful before I hog the seats myself haha. I do think larger folks get scrutinised.
+Tokens Used : 212
+Error Msg   : N/A
+
+Comment #50:
+Rating      : 2
+Content     : I don't get it. . . She asked for an extra seat and if its available, she's good to go. If not available, what does she then do? I wouldn't allow her to sit on my seat. 
+Tokens Used : 211
+Error Msg   : N/A
+
+Comment #51:
+Rating      : 2
+Content     : An overweight bag is an overweight bag. Shouldn't matter if it breathes or not and overweight and oversize fees should apply.
+Tokens Used : 193
+Error Msg   : N/A
+
+Comment #52:
+Rating      : 2
+Content     : It amazes me how entitled she feels.  She repulses me.
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #53:
+Rating      : 1
+Content     : She is why I do not shop at Walmart.
+Tokens Used : 177
+Error Msg   : N/A
+
+Comment #54:
+Rating      : N/A
+Content     : I love that with her extra room, she sprawls out with her feet on the seats where other people will sit. Rude and obese. 
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #55:
+Rating      : 2
+Content     : We need to stop glorifying morbid obesity. It is not healthy to be that big. There is really something wrong with this world when they glorify the morbidly obese and the men who dress like women. This is grotesque and needs to be stopped.
+Tokens Used : 221
+Error Msg   : N/A
+
+Comment #56:
+Rating      : 1
+Content     : She looks unhealthy.  I doubt she lives much longer.  
+Tokens Used : 180
+Error Msg   : N/A
+
+Comment #57:
+Rating      : 1
+Content     : There should be seats on Cargo planes it would be easy boarding.
+Tokens Used : 180
+Error Msg   : N/A
+
+Comment #58:
+Rating      : 1
+Content     : Here's a Tik Tok hack . Get on a treadmill 
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #59:
+Rating      : 1
+Content     : Eeewwwwww, gross.
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #60:
+Rating      : 1
+Content     : OOOFFAA She must have been heading to Omar the tent maker for a new wardrobe. You need two seats big cheeks pay for it, or how about hit the gym, oh never mind it must be one of those glandular things..
+Tokens Used : 215
+Error Msg   : N/A
+
+Comment #61:
+Rating      : 1
+Content     : Eat a salad once in a while lady!!!!
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #62:
+Rating      : 2
+Content     : I feel this is unfair. If you are morbidly obese, and that is your choice, buy two seats. Really. Or, if it truly is a health issue that can't be controlled by diet, get a Drs. note and perhaps the airline can comp one seat. I am so tired and this just adds fat to the fire.
+Tokens Used : 237
+Error Msg   : N/A
+
+Comment #63:
+Rating      : 2
+Content     : Amazing how airlines charge extra for oversized luggage but an oversized person gets TWO seats for the asking. How about pushing yourself back from the table?
+Tokens Used : 195
+Error Msg   : N/A
+
+Comment #64:
+Rating      : 2
+Content     : Did she actually say ‘airlines make it so hard to book a second seat’ ?  Have you tried paying for it ?
+Tokens Used : 193
+Error Msg   : N/A
+
+Comment #65:
+Rating      : 2
+Content     : Lets keep rewarding the undisciplined 
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #66:
+Rating      : 1
+Content     : You misspelled MoreBidLyOhBeese
+Tokens Used : 177
+Error Msg   : N/A
+
+Comment #67:
+Rating      : 1
+Content     : More bid lee oh beeseIts not our problem.
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #68:
+Rating      : N/A
+Content     : In just a year or two she will be able to advise on getting preferential treatment for being so obese that she needs a wheelchair and can board early.  My guess is the knees will go first.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #69:
+Rating      : N/A
+Content     : I'd say this fattie should consider a cargo flight. That way no passenger would be forced to be seated next to this gluttonous slob.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #70:
+Rating      : 2
+Content     : Everyone is a “victim “ of some sort these days.
+Tokens Used : 180
+Error Msg   : N/A
+
+Comment #71:
+Rating      : 1
+Content     : You misspelled MoreBidLyOhBeese
+Tokens Used : 177
+Error Msg   : N/A
+
+Comment #72:
+Rating      : 1
+Content     : More bid lee oh beeseIts not our problem.
+Tokens Used : 178
+Error Msg   : N/A
+
+Comment #73:
+Rating      : N/A
+Content     : In just a year or two she will be able to advise on getting preferential treatment for being so obese that she needs a wheelchair and can board early.  My guess is the knees will go first.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'low'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #74:
+Rating      : N/A
+Content     : I'd say this fattie should consider a cargo flight. That way no passenger would be forced to be seated next to this gluttonous slob.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #75:
+Rating      : 2
+Content     : Everyone is a “victim “ of some sort these days.
+Tokens Used : 180
+Error Msg   : N/A
+
+Comment #76:
+Rating      : 1
+Content     : These people all look the same.
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #77:
+Rating      : 1
+Content     : Space invaders from planet Earth.
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #78:
+Rating      : 3
+Content     : This sort of thing makes death panels salivate when government takes over all healthcare.
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #79:
+Rating      : 2
+Content     : When she sits around the house, she really Sits AROUND the House.Don’t be the passenger behind her in the bathroom line.
+Tokens Used : 195
+Error Msg   : N/A
+
+Comment #80:
+Rating      : 1
+Content     : Buy two seats or start dieting, running and getting healthy months before your flight.
+Tokens Used : 183
+Error Msg   : N/A
+
+Comment #81:
+Rating      : 2
+Content     : Lose some weight. Have some respect for other travellers (and yourself)
+Tokens Used : 181
+Error Msg   : N/A
+
+Comment #82:
+Rating      : 2
+Content     : Sad but true 70% of Americans are overweight and a good chunk are obese.  Meanwhile Tues Wed Sat have the most available seats for people who need room. People are getting taller and bigger and planes need to adapt. 
+Tokens Used : 213
+Error Msg   : N/A
+
+Comment #83:
+Rating      : N/A
+Content     : When are we gonna add obese to the ever growing Lqbt+=B$.&
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #84:
+Rating      : 1
+Content     : One seat for a gravy boat on the side.
+Tokens Used : 177
+Error Msg   : N/A
+
+Comment #85:
+Rating      : 2
+Content     : Enjoy those fat legs while you got em tubby, diabetes and amputation are right around the corner 
+Tokens Used : 188
+Error Msg   : N/A
+
+Comment #86:
+Rating      : 1
+Content     : maybe a salad now and then ?
+Tokens Used : 174
+Error Msg   : N/A
+
+Comment #87:
+Rating      : 1
+Content     : I’m a “plus” size guy and would be embarrassed to demand or ask for a second seat .I cram into mine then keep my legs together so the middle person isn’t overtaken.Being 6’1” doesn’t help but it’s doable
+Tokens Used : 219
+Error Msg   : N/A
+
+Comment #88:
+Rating      : 1
+Content     : This is your captain from the flight deck, we will be delayed a bit taking off as we are overweight and need to take on additional petrol.  
+Tokens Used : 197
+Error Msg   : N/A
+
+Comment #89:
+Rating      : 1
+Content     : Maybe try exercising? Try pushing yourself away from the table. That should give her a workout. When I used to be about 15 pounds overweight, that's what my father suggested. You know what it worked!
+Tokens Used : 209
+Error Msg   : N/A
+
+Comment #90:
+Rating      : 2
+Content     : No disrespect but I am 5 11 and 175 and I find it hard to get into the washroom, I guess in her case she waddles to emergency exit and uh oh.
+Tokens Used : 206
+Error Msg   : N/A
+
+Comment #91:
+Rating      : 1
+Content     : In the words of tony soprano, “try a pfu-kin salad”
+Tokens Used : 185
+Error Msg   : N/A
+
+Comment #92:
+Rating      : N/A
+Content     : I guess it’s hard traveling when your a fatty, but I guess not hard enough to slim down, so, I feel sorry for anyone who has to sit next to the glutton.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #93:
+Rating      : 2
+Content     : Fat Lives Matter ya’ll
+Tokens Used : 172
+Error Msg   : N/A
+
+Comment #94:
+Rating      : N/A
+Content     : She is fat..not attractive at all. When she is a guest at someone’s house does she Bring her own Reinforced chair ..does she eat normal size portions when visiting or eating out..
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #95:
+Rating      : 2
+Content     : Hillary Clinton flies private for this very reason
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #96:
+Rating      : N/A
+Content     : I guess it’s hard traveling when your a fatty, but I guess not hard enough to slim down, so, I feel sorry for anyone who has to sit next to the glutton.
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #97:
+Rating      : 2
+Content     : Fat Lives Matter ya’ll
+Tokens Used : 172
+Error Msg   : N/A
+
+Comment #98:
+Rating      : N/A
+Content     : She is fat..not attractive at all. When she is a guest at someone’s house does she Bring her own Reinforced chair ..does she eat normal size portions when visiting or eating out..
+Tokens Used : 0
+Error Msg   : 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+
+Comment #99:
+Rating      : 2
+Content     : Hillary Clinton flies private for this very reason
+Tokens Used : 176
+Error Msg   : N/A
+
+Comment #100:
+Rating      : 1
+Content     : She so fat…her blood type is ragu
+Tokens Used : 177
+Error Msg   : N/A
+
+===== Total Tokens Used: 15897 =====

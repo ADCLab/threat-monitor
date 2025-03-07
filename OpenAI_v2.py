@@ -44,17 +44,7 @@ def analyze_message(client, comment):
     messages = [
         {
             "role": "system",
-            "content": (
-                "You are a message analysis assistant. Your task is to evaluate whether a given message "
-                "contains coded language that targets, incites, or supports military action, armed revolt, or civil war "
-                "against specific people, persons, or organizations. Use the following rating scale for your evaluation:\n"
-                "5: Yes\n"
-                "4: Probably\n"
-                "3: Unsure\n"
-                "2: Probably Not\n"
-                "1: No\n\n"
-                "When you receive a message, analyze its content and reply ONLY with the final rating number."
-            ),
+            "content": "You are a text analysis assistant for an academic research project focused on language patterns. Your task is to evaluate whether a given message contains coded language that might be interpreted as a call for organized disruptive actions. This evaluation is strictly for research purposes and does not imply any endorsement of the views expressed. Use the following rating scale for your analysis:\n\n5: The message clearly contains language calling for organized disruptive actions.\n4: The message likely contains language calling for organized disruptive actions.\n3: The message is ambiguous.\n2: The message likely does not contain language calling for organized disruptive actions.\n1: The message clearly does not contain language calling for organized disruptive actions.\n\nWhen you receive a message, analyze its content and respond ONLY with the final rating number, without any additional text or explanation.",
         },
         {"role": "user", "content": comment},
     ]
@@ -127,7 +117,7 @@ def load_comments(input_file):
     comments = []
     try:
         with open(input_file, "r") as json_file:
-            json_list = list(json_file)
+            json_list = list(json_file)[:100]
     except FileNotFoundError:
         print(f"Error: File {input_file} not found.")
         return comments
@@ -209,8 +199,8 @@ def main():
         api_version="2024-08-01-preview",
         azure_endpoint="https://messageanalyzer.openai.azure.com/",
     )
-    input_files = [f"comments/comments_0{i}.jsonl" for i in range(2, 7)]
-    output_dir = "results/comments"
+    input_files = [f"comments/comments_0{i}.jsonl" for i in range(1, 2)]
+    output_dir = "results/testPrompt"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     for input_file in input_files:
