@@ -1,0 +1,12 @@
+{
+  "name": "Survey - Mexicans in the US",
+  "total_questions": 10,
+  "responses": {
+    "1": "Strongly Disagree", 
+    "2": "Disagree",
+    "3": "Neutral",
+    "4": "Agree", 
+    "5": "Strongly Agree" 
+  },
+  "criteria": "Does the following comment promote violence or hate speech?"
+}
