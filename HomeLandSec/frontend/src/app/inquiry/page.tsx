@@ -1,14 +1,16 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
 import Image from "next/image";
 import Button from "@/components/ui/button";
 import { SurveyData } from "@/types/interfaces";
-
+import QuestionContext from "@/contexts/questionContext";
 
 export default function Inquiry() {
   const [surveyData, setSurveyData] = useState<SurveyData | null>(null);
   const [selectedOption, setSelectedOption] = useState("");
-
+  const context = useContext(QuestionContext);
+  if (!context) throw new Error("useContext must be used within questionProvider");
+  const { value, setValue } = context;
   useEffect(() => {
     fetch("/survey.json")
       .then((res) => res.json())
@@ -57,6 +59,7 @@ export default function Inquiry() {
           ))}
         </div>
         <Button onClick={testButton}>Test button</Button>
+        <p className="text-blue-500">{value}</p>
       </main>
     </div>
   );

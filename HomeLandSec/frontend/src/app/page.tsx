@@ -1,20 +1,26 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useContext } from "react";
 import Image from "next/image";
 import Button from "@/components/ui/button";
 import Link from "next/link";
+import QuestionContext from "@/contexts/questionContext";
+
 
 export default function Home() {
-  function loadQuestions() {
-    console.log("Loading questions");
-  }
+  const context = useContext(QuestionContext);
+  if (!context) throw new Error("useContext must be used within questionProvider");
+  const { value, setValue } = context;
 
-  return (
+  function testButton() {
+    console.log("Test button clicked");
+    setValue("Updated question context value!");
+  } return (
     <div className="grid grid-rows-[20px_1fr_20px] bg-neutral-200 items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <Link href="/inquiry" className="text-blue-500">
         Inquiry
       </Link>
-      <Button onClick={loadQuestions}>Test Button</Button>
+      <Button onClick={testButton}>Test Button</Button>
+      <p className="text-blue-500">{value}</p>
     </div>
   );
 }
