@@ -7,4 +7,4 @@ venv
 .idea
 log.txt
 output.txt
-app/node_modules
+node_modules
