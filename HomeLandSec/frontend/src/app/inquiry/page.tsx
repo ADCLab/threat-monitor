@@ -88,7 +88,7 @@ export default function Inquiry() {
           </p>
         </header>
         <section className="mb-6">
-          <p className=" text-center mb-4">{criteria}</p>
+          <p className="text-center mb-4">{criteria}</p>
           <div className="text-gray-700 text-sm space-y-2">
             <p>
               Please read the following message and rate it using the scale
@@ -115,7 +115,7 @@ export default function Inquiry() {
           />
         </section>
         <section className="mb-6">
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-5 gap-4">
             {buttons.map((btnText, index) => {
               const key = String(index + 1);
               return (
