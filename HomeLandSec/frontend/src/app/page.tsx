@@ -4,7 +4,7 @@ import Image from "next/image";
 import Button from "@/components/ui/button";
 import Link from "next/link";
 import QuestionContext from "@/contexts/questionContext";
-
+import { fetchSurveyData, SurveyData } from "@/utils/fetchSurveyData";
 export default function Home() {
   const context = useContext(QuestionContext);
   if (!context)
@@ -14,16 +14,21 @@ export default function Home() {
     criteria,
     setCriteria,
     buttons,
-    addButton,
-    updateButton,
-    removeButton,
+    setAllButtons,
+    name,
+    setName,
+    total_questions,
+    setTotal_questions,
   } = context;
-  function loadSurvey() {
+
+  async function loadSurvey() {
     console.log("Survey Loaded");
-    setCriteria("New Criteria");
-    addButton("New Button");
-    addButton("New Button 2");
-    addButton("New Button 3");
+    const response: SurveyData = await fetchSurveyData();
+
+    setCriteria(response.criteria);
+    setName(response.name);
+    setTotal_questions(response.total_questions);
+    setAllButtons(Object.values(response.buttons));
   }
 
   return (
@@ -39,23 +44,16 @@ export default function Home() {
       </Button>
       <h1 className="text-4xl font-bold text-neutral-900">Home</h1>
       <p className="text-lg text-neutral-800">Criteria: {criteria}</p>
-      <ul>
-        {buttons.map((button, index) => (
-          <li key={index}>
-            <input
-              type="text"
-              value={button}
-              onChange={(e) => updateButton(index, e.target.value)}
-            />
-            <Button
-              onClick={() => removeButton(index)}
-              className="text-red-300 bg-red-800"
-            >
-              Remove
-            </Button>
-          </li>
+      <p className="text-lg text-neutral-800">Name: {name}</p>
+      <p className="text-lg text-neutral-800">
+        Total Questions: {total_questions}
+      </p>
+      {/* Map over buttons to display each as a Button component */}
+      <div className="flex gap-4">
+        {buttons.map((btnText, index) => (
+          <Button key={index}>{btnText}</Button>
         ))}
-      </ul>
+      </div>
     </div>
   );
 }

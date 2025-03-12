@@ -5,9 +5,11 @@ interface QuestionContextProps {
   criteria: string;
   setCriteria: React.Dispatch<React.SetStateAction<string>>;
   buttons: string[];
-  addButton: (buttonText: string) => void;
-  updateButton: (index: number, newValue: string) => void;
-  removeButton: (index: number) => void;
+  setAllButtons: (newButtons: string[]) => void;
+  name: string;
+  setName: React.Dispatch<React.SetStateAction<string>>;
+  total_questions: number;
+  setTotal_questions: React.Dispatch<React.SetStateAction<number>>;
 }
 
 const QuestionContext = createContext<QuestionContextProps | undefined>(
@@ -21,32 +23,12 @@ interface QuestionProviderProps {
 export function QuestionProvider({ children }: QuestionProviderProps) {
   const [criteria, setCriteria] = useState("Default Criteria");
   const [buttons, setButtons] = useState<string[]>([]);
+  const [name, setName] = useState("Default Name");
+  const [total_questions, setTotal_questions] = useState(0);
 
-  const addButton = (buttonText: string) => {
-    setButtons((prev) => {
-      if (prev.length < 10) {
-        return [...prev, buttonText];
-      }
-      return prev;
-    });
-  };
-
-  const updateButton = (index: number, newValue: string) => {
-    setButtons((prev) => {
-      if (index < 0 || index >= prev.length) return prev;
-      const updated = [...prev];
-      updated[index] = newValue;
-      return updated;
-    });
-  };
-
-  const removeButton = (index: number) => {
-    setButtons((prev) => {
-      if (index < 0 || index >= prev.length) return prev;
-      const updated = [...prev];
-      updated.splice(index, 1);
-      return updated;
-    });
+  const setAllButtons = (newButtons: string[]) => {
+    // Clears current buttons and then sets all buttons at once
+    setButtons(newButtons);
   };
 
   return (
@@ -55,9 +37,11 @@ export function QuestionProvider({ children }: QuestionProviderProps) {
         criteria,
         setCriteria,
         buttons,
-        addButton,
-        updateButton,
-        removeButton,
+        setAllButtons,
+        name,
+        setName,
+        total_questions,
+        setTotal_questions,
       }}
     >
       {children}
