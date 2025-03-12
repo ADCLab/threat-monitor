@@ -91,9 +91,8 @@ export default function Inquiry() {
           <p className=" text-center mb-4">{criteria}</p>
           <div className="text-gray-700 text-sm space-y-2">
             <p>
-              Yo, as a Message Analysis Assistant, you're here to check if a
-              message's vibing with any coded language that might incite or
-              support chaos.
+              Please read the following message and rate it using the scale
+              below:
             </p>
             <p>Rate using the scale below (final rating number only):</p>
             <ul className="space-y-1">

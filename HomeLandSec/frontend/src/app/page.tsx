@@ -1,31 +1,51 @@
 "use client";
-import { useContext } from "react";
-import Image from "next/image";
 import Button from "@/components/ui/button";
 import Link from "next/link";
-import QuestionContext from "@/contexts/questionContext";
-import { fetchSurveyData, SurveyData } from "@/utils/fetchSurveyData";
+
 export default function Home() {
-  const context = useContext(QuestionContext);
-  if (!context)
-    throw new Error("useContext must be used within questionProvider");
-
-  async function loadSurvey() {
-    console.log("Survey Loaded");
-    await fetchSurveyData();
-  }
-
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] bg-neutral-200 items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <Link
-        href="/inquiry"
-        className="bg-neutral-800 p-10 text-blue-200 rounded-2xl"
-      >
-        Go to Inquiry
-      </Link>
-      <Button onClick={loadSurvey} className="text-blue-300 bg-fuchsia-800">
-        Test Button
-      </Button>
+    <div className="min-h-screen bg-gray-50 flex flex-col">
+      <header className="w-full text-center py-18">
+        <div
+          className="mx-auto mb-6 rounded-lg shadow-lg overflow-hidden"
+          style={{ maxWidth: "600px", aspectRatio: "16/9" }}
+        >
+          <iframe
+            width="100%"
+            height="100%"
+            src="https://www.youtube.com/embed/oa1qKT-VJvo"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+        <h1 className="text-4xl font-bold text-gray-800 pt-4 mb-4">
+          Welcome to the Lab Survey
+        </h1>
+        <p className="text-lg text-gray-600">
+          Dive into our survey and share your insights to help us improve the
+          lab experience.
+        </p>
+      </header>
+      <main className="flex-grow flex flex-col items-center space-y-6">
+        <Link href="/inquiry">
+          <Button className="px-8 py-3 bg-neutral-800 text-blue-200 rounded-full shadow-md hover:bg-neutral-700 transition">
+            Get Started
+          </Button>
+        </Link>
+      </main>
+      <footer className="py-4 text-center text-sm text-gray-500">
+        <a
+          href="https://adc-ucf.com/"
+          className="hover:underline"
+          target="_blank"
+        >
+          {" "}
+          For more information, visit our website
+        </a>
+        <br />© {new Date().getFullYear()} Lab Survey. All rights reserved.
+      </footer>
     </div>
   );
 }
