@@ -10,25 +10,9 @@ export default function Home() {
   if (!context)
     throw new Error("useContext must be used within questionProvider");
 
-  const {
-    criteria,
-    setCriteria,
-    buttons,
-    setAllButtons,
-    name,
-    setName,
-    total_questions,
-    setTotal_questions,
-  } = context;
-
   async function loadSurvey() {
     console.log("Survey Loaded");
-    const response: SurveyData = await fetchSurveyData();
-
-    setCriteria(response.criteria);
-    setName(response.name);
-    setTotal_questions(response.total_questions);
-    setAllButtons(Object.values(response.buttons));
+    await fetchSurveyData();
   }
 
   return (
@@ -42,18 +26,6 @@ export default function Home() {
       <Button onClick={loadSurvey} className="text-blue-300 bg-fuchsia-800">
         Test Button
       </Button>
-      <h1 className="text-4xl font-bold text-neutral-900">Home</h1>
-      <p className="text-lg text-neutral-800">Criteria: {criteria}</p>
-      <p className="text-lg text-neutral-800">Name: {name}</p>
-      <p className="text-lg text-neutral-800">
-        Total Questions: {total_questions}
-      </p>
-      {/* Map over buttons to display each as a Button component */}
-      <div className="flex gap-4">
-        {buttons.map((btnText, index) => (
-          <Button key={index}>{btnText}</Button>
-        ))}
-      </div>
     </div>
   );
 }
