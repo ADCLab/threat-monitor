@@ -28,11 +28,22 @@ export default function RootLayout({
     <html lang="en">
       <QuestionProvider>
         <body
-          className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+          className={`${geistSans.variable} ${geistMono.variable} antialiased h-screen flex flex-col`}
         >
-
-          <Nav />
-          {children}
+          <header className="flex-none">
+            <Nav />
+          </header>
+          <main className="flex-grow overflow-auto bg-gray-50">{children}</main>
+          <footer className="flex-none py-4 text-center text-sm text-gray-500 bg-gray-50">
+            <a
+              href="https://adc-ucf.com/"
+              className="hover:underline"
+              target="_blank"
+            >
+              For more information, visit our website
+            </a>
+            <br />© {new Date().getFullYear()} Lab Survey. All rights reserved.
+          </footer>
         </body>
       </QuestionProvider>
     </html>

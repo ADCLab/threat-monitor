@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col">
+    <div className="bg-gray-50 flex flex-col flex-grow">
       <header className="w-full text-center py-18">
         <div
           className="mx-auto mb-6 rounded-lg shadow-lg overflow-hidden"
@@ -35,17 +35,6 @@ export default function Home() {
           </Button>
         </Link>
       </main>
-      <footer className="py-4 text-center text-sm text-gray-500">
-        <a
-          href="https://adc-ucf.com/"
-          className="hover:underline"
-          target="_blank"
-        >
-          {" "}
-          For more information, visit our website
-        </a>
-        <br />© {new Date().getFullYear()} Lab Survey. All rights reserved.
-      </footer>
     </div>
   );
 }

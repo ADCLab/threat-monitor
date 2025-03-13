@@ -1,5 +1,6 @@
 "use client";
 import { useState, useEffect, useContext } from "react";
+import { useRouter } from "next/navigation";
 import Button from "@/components/ui/button";
 import QuestionContext from "@/contexts/questionContext";
 import { fetchMessage, recordRank } from "@/utils/csv";
@@ -22,6 +23,8 @@ export default function Inquiry() {
 
   const [questions, setQuestions] = useState<QuestionData[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [finished, setFinished] = useState(false);
+  const router = useRouter();
 
   const context = useContext(QuestionContext);
   if (!context)
@@ -52,7 +55,7 @@ export default function Inquiry() {
   // Submit answer for the current question
   const submit = async () => {
     const currentQuestion = questions[currentIndex];
-    if (!currentQuestion || currentQuestion.submitted) return; // already submitted, fam
+    if (!currentQuestion || currentQuestion.submitted) return;
     const rank = parseInt(currentQuestion.answer);
     if (!rank) {
       alert("Please select a rating");
@@ -64,9 +67,9 @@ export default function Inquiry() {
       updated[currentIndex].submitted = true;
       return updated;
     });
-    // If this is the final question, alert the user.
+    // If this is the final question, finish survey and show final page.
     if (currentIndex + 1 >= total_questions) {
-      alert("All questions completed!");
+      setFinished(true);
     }
   };
 
@@ -79,11 +82,9 @@ export default function Inquiry() {
 
   // Navigate to the next question
   const goToNext = async () => {
-    // If the next question is already loaded, just jump
     if (currentIndex + 1 < questions.length) {
       setCurrentIndex((prev) => prev + 1);
     } else if (currentIndex + 1 < total_questions) {
-      // Fetch a new question and add it to our questions array
       const newMessage = await fetchMessage();
       setQuestions((prev) => [
         ...prev,
@@ -92,6 +93,19 @@ export default function Inquiry() {
       setCurrentIndex((prev) => prev + 1);
     }
   };
+
+  // Final page rendering once survey is finished.
+  if (finished) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center text-gray-700 p-4 bg-gray-100">
+        <div className="bg-white rounded-lg shadow-lg p-8 max-w-2xl w-full text-center">
+          <h1 className="text-3xl font-bold mb-4">Thank You!</h1>
+          <p className="text-lg mb-6">Your responses have been recorded.</p>
+          <Button onClick={() => router.push("/")}>Return to Home</Button>
+        </div>
+      </div>
+    );
+  }
 
   if (!criteria || questions.length === 0) {
     return (
