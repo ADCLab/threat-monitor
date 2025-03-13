@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useContext, useRef } from "react";
+import { useState, useEffect, useContext } from "react";
 import Button from "@/components/ui/button";
 import QuestionContext from "@/contexts/questionContext";
 import { fetchMessage, recordRank } from "@/utils/csv";
@@ -10,15 +10,18 @@ interface Message {
   text: string;
 }
 
+interface QuestionData {
+  message: Message;
+  answer: string; // user's selected option (as string)
+  submitted: boolean;
+}
+
 export default function Inquiry() {
   // Load survey data into the context on mount.
   useLoadSurveyData();
 
-  const [selectedOption, setSelectedOption] = useState("");
-  const [text, setText] = useState("");
-  const [currentMessage, setCurrentMessage] = useState<Message | null>(null);
-  const textareaRef = useRef<HTMLTextAreaElement>(null);
-  const [questionIndex, setQuestionIndex] = useState(0);
+  const [questions, setQuestions] = useState<QuestionData[]>([]);
+  const [currentIndex, setCurrentIndex] = useState(0);
 
   const context = useContext(QuestionContext);
   if (!context)
@@ -26,53 +29,71 @@ export default function Inquiry() {
 
   const { criteria, buttons, name, total_questions } = context;
 
-  // Handle key presses for quick selection
+  // Load the first question on mount.
   useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      if (buttons && buttons[parseInt(e.key) - 1]) {
-        setSelectedOption(e.key);
-      }
+    const loadInitialQuestion = async () => {
+      const newMessage = await fetchMessage();
+      setQuestions([{ message: newMessage, answer: "", submitted: false }]);
     };
-    window.addEventListener("keydown", handleKeyDown);
-    return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [buttons]);
+    loadInitialQuestion();
+  }, []);
 
-  // Auto-resize the textarea when text changes
-  useEffect(() => {
-    if (textareaRef.current) {
-      textareaRef.current.style.height = "auto";
-      textareaRef.current.style.height = `${textareaRef.current.scrollHeight}px`;
-    }
-  }, [text]);
-
-  const changeText = async () => {
-    const newMessage = await fetchMessage();
-    setCurrentMessage(newMessage);
-    setText(newMessage.text);
+  // Update the answer for the current question when a radio is clicked.
+  const updateAnswer = (value: string) => {
+    setQuestions((prev) => {
+      const updated = [...prev];
+      if (!updated[currentIndex].submitted) {
+        updated[currentIndex].answer = value;
+      }
+      return updated;
+    });
   };
 
+  // Submit answer for the current question
   const submit = async () => {
-    console.log("Submitted");
-    const rank = parseInt(selectedOption);
-    if (!rank || rank === 0) {
+    const currentQuestion = questions[currentIndex];
+    if (!currentQuestion || currentQuestion.submitted) return; // already submitted, fam
+    const rank = parseInt(currentQuestion.answer);
+    if (!rank) {
       alert("Please select a rating");
       return;
     }
-    if (!currentMessage) {
-      alert("No message available to record.");
-      return;
+    await recordRank(currentQuestion.message, rank);
+    setQuestions((prev) => {
+      const updated = [...prev];
+      updated[currentIndex].submitted = true;
+      return updated;
+    });
+    // If this is the final question, alert the user.
+    if (currentIndex + 1 >= total_questions) {
+      alert("All questions completed!");
     }
-    setQuestionIndex(questionIndex + 1);
-    await recordRank(currentMessage, rank);
-    await changeText();
-    setSelectedOption("");
   };
 
-  useEffect(() => {
-    changeText();
-  }, []);
+  // Navigate to the previous question
+  const goToPrevious = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex((prev) => prev - 1);
+    }
+  };
 
-  if (!criteria) {
+  // Navigate to the next question
+  const goToNext = async () => {
+    // If the next question is already loaded, just jump
+    if (currentIndex + 1 < questions.length) {
+      setCurrentIndex((prev) => prev + 1);
+    } else if (currentIndex + 1 < total_questions) {
+      // Fetch a new question and add it to our questions array
+      const newMessage = await fetchMessage();
+      setQuestions((prev) => [
+        ...prev,
+        { message: newMessage, answer: "", submitted: false },
+      ]);
+      setCurrentIndex((prev) => prev + 1);
+    }
+  };
+
+  if (!criteria || questions.length === 0) {
     return (
       <div className="min-h-screen flex items-center justify-center text-lg">
         Loading...
@@ -80,13 +101,15 @@ export default function Inquiry() {
     );
   }
 
+  const currentQuestion = questions[currentIndex];
+
   return (
     <div className="min-h-screen text-gray-800 bg-gray-100 flex items-center justify-center p-4">
       <div className="bg-white rounded-lg shadow-lg p-8 max-w-2xl w-full">
         <header className="mb-6 text-center">
           <h1 className="text-2xl font-bold mb-2">{name}</h1>
           <p className="text-sm text-gray-600">
-            Question: {questionIndex} / {total_questions}
+            Question: {currentIndex + 1} / {total_questions}
           </p>
         </header>
         <section className="mb-6">
@@ -111,8 +134,7 @@ export default function Inquiry() {
           <h3 className="font-semibold mb-2">Message</h3>
           <textarea
             readOnly
-            value={text}
-            ref={textareaRef}
+            value={currentQuestion.message.text}
             className="w-full p-3 border border-gray-300 rounded resize-none overflow-hidden"
           />
         </section>
@@ -129,9 +151,10 @@ export default function Inquiry() {
                     type="radio"
                     name="rank"
                     value={key}
-                    checked={selectedOption === key}
-                    onChange={() => setSelectedOption(key)}
+                    checked={currentQuestion.answer === key}
+                    onChange={() => updateAnswer(key)}
                     className="form-radio"
+                    disabled={currentQuestion.submitted}
                   />
                   <span>{btnText}</span>
                 </label>
@@ -139,10 +162,20 @@ export default function Inquiry() {
             })}
           </div>
         </section>
-        <footer className="flex justify-center space-x-4">
-          <Button onClick={submit}>Submit</Button>
-          <Button onClick={() => console.log("Test button clicked!")}>
-            Test Button
+        <footer className="flex justify-between space-x-4">
+          <Button onClick={goToPrevious} disabled={currentIndex === 0}>
+            Previous
+          </Button>
+          <Button onClick={submit} disabled={currentQuestion.submitted}>
+            Submit
+          </Button>
+          <Button
+            onClick={goToNext}
+            disabled={
+              currentIndex + 1 >= total_questions && currentQuestion.submitted
+            }
+          >
+            Next
           </Button>
         </footer>
       </div>
