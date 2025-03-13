@@ -18,6 +18,7 @@ export default function Inquiry() {
   const [text, setText] = useState("");
   const [currentMessage, setCurrentMessage] = useState<Message | null>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const [questionIndex, setQuestionIndex] = useState(0);
 
   const context = useContext(QuestionContext);
   if (!context)
@@ -61,6 +62,7 @@ export default function Inquiry() {
       alert("No message available to record.");
       return;
     }
+    setQuestionIndex(questionIndex + 1);
     await recordRank(currentMessage, rank);
     await changeText();
     setSelectedOption("");
@@ -84,7 +86,7 @@ export default function Inquiry() {
         <header className="mb-6 text-center">
           <h1 className="text-2xl font-bold mb-2">{name}</h1>
           <p className="text-sm text-gray-600">
-            Total Questions: {total_questions}
+            Question: {questionIndex} / {total_questions}
           </p>
         </header>
         <section className="mb-6">
