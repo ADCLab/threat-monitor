@@ -1,24 +1,13 @@
 "use client";
 import React, { createContext, useState, ReactNode } from "react";
-
-interface QuestionContextProps {
-  criteria: string;
-  setCriteria: React.Dispatch<React.SetStateAction<string>>;
-  buttons: string[];
-  setAllButtons: (newButtons: string[]) => void;
-  name: string;
-  setName: React.Dispatch<React.SetStateAction<string>>;
-  total_questions: number;
-  setTotal_questions: React.Dispatch<React.SetStateAction<number>>;
-}
+import {
+  QuestionContextProps,
+  QuestionProviderProps,
+} from "@/types/interfaces";
 
 const QuestionContext = createContext<QuestionContextProps | undefined>(
   undefined,
 );
-
-interface QuestionProviderProps {
-  children: ReactNode;
-}
 
 export function QuestionProvider({ children }: QuestionProviderProps) {
   const [criteria, setCriteria] = useState("Default Criteria");

@@ -1,12 +1,6 @@
 import { useEffect, useContext } from "react";
 import QuestionContext from "@/contexts/questionContext";
-
-export interface SurveyData {
-  name: string;
-  total_questions: number;
-  buttons: { [key: string]: string };
-  criteria: string;
-}
+import { SurveyData } from "@/types/interfaces";
 
 export async function fetchSurveyData(): Promise<SurveyData> {
   const response = await fetch("/survey.json");
@@ -36,6 +30,7 @@ export function useLoadSurveyData() {
         console.error(error);
       }
     }
+
     loadData();
-  }, [setCriteria, setName, setTotal_questions, setAllButtons]);
+  }, []);
 }

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Nav from "@/components/ui/nav";
+import Footer from "@/components/ui/footer";
 import QuestionContext, { QuestionProvider } from "@/contexts/questionContext";
 
 const geistSans = Geist({
@@ -34,16 +35,7 @@ export default function RootLayout({
             <Nav />
           </header>
           <main className="flex-grow overflow-auto bg-gray-50">{children}</main>
-          <footer className="flex-none py-4 text-center text-sm text-gray-500 bg-gray-50">
-            <a
-              href="https://adc-ucf.com/"
-              className="hover:underline"
-              target="_blank"
-            >
-              For more information, visit our website
-            </a>
-            <br />© {new Date().getFullYear()} Lab Survey. All rights reserved.
-          </footer>
+          <Footer />
         </body>
       </QuestionProvider>
     </html>
