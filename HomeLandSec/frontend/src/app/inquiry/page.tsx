@@ -18,14 +18,36 @@ export default function Inquiry() {
 
   const { criteria, buttons, name, total_questions } = context;
 
+  // Helper function to create a new question object.
+  const createQuestion = (message: any): QuestionData => ({
+    message,
+    answer: "",
+    submitted: false,
+  });
+
   // Load the first question on mount.
   useEffect(() => {
     const loadInitialQuestion = async () => {
       const newMessage = await fetchMessage();
-      setQuestions([{ message: newMessage, answer: "", submitted: false }]);
+      setQuestions([createQuestion(newMessage)]);
     };
     loadInitialQuestion();
   }, []);
+  // Listen for number key presses and update the answer accordingly.
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      const num = parseInt(e.key, 10);
+      // Check if the pressed key is a valid number for one of the buttons.
+      if (!isNaN(num) && num >= 1 && num <= buttons.length) {
+        updateAnswer(String(num));
+      } else if (e.key === "Enter") {
+        submit();
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [buttons, currentIndex]);
 
   // Update the answer for the current question when a radio is clicked.
   const updateAnswer = (value: string) => {
@@ -48,13 +70,18 @@ export default function Inquiry() {
       return;
     }
     await recordRank(currentQuestion.message, rank);
-    setQuestions((prev) => {
-      const updated = [...prev];
-      updated[currentIndex].submitted = true;
-      return updated;
-    });
+
+    // Create a new questions array with the current question marked as submitted
+    const updatedQuestions = questions.map((q, index) =>
+      index === currentIndex ? { ...q, submitted: true } : q,
+    );
+    setQuestions(updatedQuestions);
+
     // If this is the final question, alert the user.
-    if (currentIndex + 1 >= total_questions) {
+    if (
+      updatedQuestions.length === total_questions &&
+      updatedQuestions.every((q) => q.submitted)
+    ) {
       alert("All questions completed!");
     }
   };
@@ -74,10 +101,7 @@ export default function Inquiry() {
     } else if (currentIndex + 1 < total_questions) {
       // Fetch a new question and add it to our questions array
       const newMessage = await fetchMessage();
-      setQuestions((prev) => [
-        ...prev,
-        { message: newMessage, answer: "", submitted: false },
-      ]);
+      setQuestions((prev) => [...prev, createQuestion(newMessage)]);
       setCurrentIndex((prev) => prev + 1);
     }
   };
