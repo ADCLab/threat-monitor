@@ -12,9 +12,10 @@ import concurrent.futures
 load_dotenv()
 
 api_key = os.getenv("OPENAI_API_KEY")
-if not api_key:
+azure_endpoint = os.getenv("OPENAI_AZURE_ENDPOINT")
+if not api_key or not azure_endpoint:
     raise ValueError(
-        "API key is not set. Please set the OPENAI_API_KEY environment variable."
+        "API key and/or Azure endpoint not found. Please set them in the .env file."
     )
 
 useTokens = True
@@ -197,7 +198,7 @@ def main():
     client = AzureOpenAI(
         api_key=api_key,
         api_version="2024-08-01-preview",
-        azure_endpoint="https://messageanalyzer.openai.azure.com/",
+        azure_endpoint=azure_endpoint,
     )
     input_files = [f"comments/comments_0{i}.jsonl" for i in range(1, 2)]
     output_dir = "results/testPrompt"
