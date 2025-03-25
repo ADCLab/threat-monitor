@@ -126,12 +126,16 @@ export default function Inquiry() {
           </p>
         </header>
         <section className="mb-6">
+          <section className="mb-6">
+            <h3 className="font-semibold mb-2">Message</h3>
+            <textarea
+              readOnly
+              value={currentQuestion.message.text}
+              className="w-full h-28 p-3 border border-gray-300 rounded resize-none "
+            />
+          </section>
           <p className="text-center mb-4">{criteria}</p>
           <div className="text-gray-700 text-sm space-y-2">
-            <p>
-              Please read the following message and rate it using the scale
-              below:
-            </p>
             <p>Rate using the scale below (final rating number only):</p>
             <ul className="space-y-1">
               {buttons.map((btnText, index) => (
@@ -143,14 +147,7 @@ export default function Inquiry() {
             </ul>
           </div>
         </section>
-        <section className="mb-6">
-          <h3 className="font-semibold mb-2">Message</h3>
-          <textarea
-            readOnly
-            value={currentQuestion.message.text}
-            className="w-full p-3 border border-gray-300 rounded resize-none overflow-hidden"
-          />
-        </section>
+
         <section className="mb-6">
           <div className="grid grid-cols-5 gap-4">
             {buttons.map((btnText, index) => {
