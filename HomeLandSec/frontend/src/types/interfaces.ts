@@ -14,6 +14,7 @@ export interface QuestionContextProps {
   setName: React.Dispatch<React.SetStateAction<string>>;
   total_questions: number;
   setTotal_questions: React.Dispatch<React.SetStateAction<number>>;
+  resetContext: () => void;
 }
 
 export interface QuestionProviderProps {

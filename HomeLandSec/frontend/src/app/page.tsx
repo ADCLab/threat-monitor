@@ -1,8 +1,23 @@
 "use client";
+import { useEffect, useContext } from "react";
 import Button from "@/components/ui/button";
 import Link from "next/link";
+import QuestionContext from "@/contexts/questionContext";
 
 export default function Home() {
+  const context = useContext(QuestionContext);
+  if (!context) {
+    throw new Error(
+      "QuestionContext is undefined. Make sure you're wrapping your app with QuestionProvider.",
+    );
+  }
+  const { resetContext } = context;
+
+  useEffect(() => {
+    console.log("Resetting context");
+    resetContext();
+  }, []);
+
   return (
     <div className="bg-gray-50 flex flex-col flex-grow">
       <header className="w-full text-center py-18">

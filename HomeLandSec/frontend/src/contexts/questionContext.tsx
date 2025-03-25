@@ -15,6 +15,14 @@ export function QuestionProvider({ children }: QuestionProviderProps) {
   const [name, setName] = useState("Default Name");
   const [total_questions, setTotal_questions] = useState(0);
 
+  // Add a reset function to restore initial values
+  const resetContext = () => {
+    setCriteria("Default Criteria");
+    setButtons([]);
+    setName("Default Name");
+    setTotal_questions(0);
+  };
+
   const setAllButtons = (newButtons: string[]) => {
     // Clears current buttons and then sets all buttons at once
     setButtons(newButtons);
@@ -31,6 +39,7 @@ export function QuestionProvider({ children }: QuestionProviderProps) {
         setName,
         total_questions,
         setTotal_questions,
+        resetContext,
       }}
     >
       {children}

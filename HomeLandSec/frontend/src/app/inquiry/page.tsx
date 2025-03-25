@@ -5,6 +5,7 @@ import QuestionContext from "@/contexts/questionContext";
 import { fetchMessage, recordRank } from "@/utils/csv";
 import { useLoadSurveyData } from "@/utils/fetchSurveyData";
 import { QuestionData } from "@/types/interfaces";
+import { useRouter } from "next/navigation";
 
 export default function Inquiry() {
   useLoadSurveyData();
@@ -12,6 +13,7 @@ export default function Inquiry() {
   const [questions, setQuestions] = useState<QuestionData[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
 
+  const router = useRouter();
   const context = useContext(QuestionContext);
   if (!context)
     throw new Error("useContext must be used within questionProvider");
@@ -40,7 +42,7 @@ export default function Inquiry() {
       // Check if the pressed key is a valid number for one of the buttons.
       if (!isNaN(num) && num >= 1 && num <= buttons.length) {
         updateAnswer(String(num));
-      } else if (e.key === "Enter") {
+      } else if (e.key === "Enter" || e.key === " ") {
         submit();
       }
     };
@@ -83,7 +85,9 @@ export default function Inquiry() {
       updatedQuestions.every((q) => q.submitted)
     ) {
       alert("All questions completed!");
+      router.push("/");
     }
+    setTimeout(goToNext, 200);
   };
 
   // Navigate to the previous question
