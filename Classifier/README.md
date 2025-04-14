@@ -2,7 +2,7 @@
 
 This directory contains various approaches for building a classifier that detects dangerous comments. A comment is classified as dangerous if its rating is 3, 4, or 5—these constitute a small minority of the total dataset—or if it is marked as N/A, which indicates that the comment triggered ChatGPT's content filter.
 
----
+
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ The classifier approaches in this directory aim to detect dangerous comments wit
 - **Format**: The data is broken into six CSV files, each containing approximately 100K entries.
 - **Content Details**: Besides textual reviews, the dataset includes numerical ratings which are used to determine whether a comment is considered dangerous.
 
-Additional details about the dataset can be found in the [dataset directory](/dataset).
+Additional details about the dataset can be found in the [dataset directory](./dataset).
 
 
 ## Main Classifier: classifier_GPU
