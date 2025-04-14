@@ -1,6 +1,8 @@
-The **Home Security Project** is an initiative under ADC Lab that focuses on the collection and detection of dangerous comments. The primary objective of the project is to develop an automated, robust system capable of processing and analyzing large datasets of comments for potential risks. In doing so, the project leverages advanced natural language processing techniques to support both the collection and classification components, ensuring high-quality training data for further model refinement.
+# Home Security Project
 
-This repository integrates components written in multiple programming languages, including Python for backend processing and TypeScript for frontend survey deployment. The project is segmented into several key modules, each designed to tackle a specific facet of the overall system.
+The **Home Security Project** is an ADC Lab initiative focused on the collection and detection of dangerous comments. By leveraging advanced natural language processing techniques, the project processes and analyzes large datasets of comments to identify potential risks and generate high-quality training data for model refinement.
+
+This repository integrates multiple components written in different languages, including Python for backend processing and TypeScript for frontend survey deployment. The project is organized into several modules—each dedicated to a specific aspect of the overall system.
 
 ## Table of Contents
 - [Background and Motivation](#background-and-motivation)
@@ -9,52 +11,51 @@ This repository integrates components written in multiple programming languages,
   - [HomeLandSec Module](#homelandsec-module)
   - [Classifier Module](#classifier-module)
 - [Architecture and Components](#architecture-and-components)
+- [Prerequisites](#prerequisites)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Acknowledgements](#acknowledgements)
 
 
+
 ## Background and Motivation
 
-This project contains the following: 
-- **Data Collection**: Efficiently gathering a significant volume of comments (approximately 600,000) that require evaluation.
-- **Risk Assessment**: Utilizing natural language processing techniques and models such as [ChatGPT](https://openai.com/research) to rank and assess comments based on predetermined criteria.
-- **Survey Deployment**: Implementing a modular TypeScript-based survey application to support the Homeland Security sub-projects, ensuring that data collection methods remain interactive and user-friendly.
-- **Model Development**: Experimenting with various classifiers through iterative Jupyter Notebook experiments to optimize detection accuracy on the provided dataset.
+This project includes:
 
-The insights derived from this project not only aid in immediate security responses but also contribute to improved training data for potential future deployments in related security domains.
+- **Data Collection**: Efficiently gathering approximately 600,000 comments for evaluation.
+- **Risk Assessment**: Utilizing NLP techniques and models such as [ChatGPT](https://openai.com/research) to rank comments based on predetermined criteria.
+- **Survey Deployment**: Implementing a modular TypeScript-based survey application to support Homeland Security sub-projects, ensuring interactive and user-friendly data collection.
+- **Model Development**: Experimenting with various classifiers through iterative Jupyter Notebook experiments to optimize detection accuracy.
+
+The insights derived contribute not only to immediate security responses but also to enhanced training data for future security-related applications.
+
 
 ## Repository Structure
 
-The repository is divided into multiple directories and key files that serve specific purposes within the project framework. Detailed descriptions of each component are provided below.
-
 ### OpenAI_v2.py
-
-- **File Location**: [OpenAI_v2.py](RANKING.md)
-- **Description**: This Python script automates the process of iterating through a dataset of approximately 600K comments. The script interfaces with ChatGPT, requesting a ranking based on a predefined criteria for each comment. This ranking system is central to the project's effort to quantify risk or danger associated with textual data.
+- **Location**: [OpenAI_v2.py](RANKING.md)
+- **Description**: A Python script that automates the ranking of approximately 600K comments. It interacts with ChatGPT to assign an integer ranking to each comment based on a predefined criterion.
 - **Key Features**:
   - Batch processing of large comment datasets.
   - Integration with ChatGPT for dynamic evaluation.
-  - Logging and error handling mechanisms to ensure robust script execution.
-  - Exponential delays between requests failed due to rate limits. 
+  - Extensive logging and error handling.
+  - Exponential backoff for managing rate limits.
 
 ### HomeLandSec Module
-
-- **Directory Location**: [HomeLandSec/](HomeLandSec/README.md)
-- **Description**: This module contains a modular TypeScript application that serves as a deployable survey for Homeland Security sub-projects. It is designed with scalability in mind, ensuring that user input and survey responses can be captured reliably in various deployment scenarios.
+- **Location**: [HomeLandSec/](HomeLandSec/README.md)
+- **Description**: A modular TypeScript application that serves as a deployable survey for Homeland Security sub-projects. Its design ensures that survey responses from volunteers are collected reliably.
 - **Key Features**:
-  - A dynamic, user-friendly survey interface.
-  - Modular architecture to allow easy updates and adaptations.
-  - Integration with ADC Lab’s broader data collection and security frameworks.
-  - Made to be integrated with ADC's project for modular backends.
+  - User-friendly survey interface.
+  - Modular architecture for easy updates.
+  - Seamless integration with ADC Lab’s data collection frameworks.
+  - Designed for future integration with ADC’s modular backend systems.
 
 ### Classifier Module
-
-- **Directory Location**: [Classifier/](Classifier/README.md)
-- **Description**: This component is a collection of Jupyter Notebooks containing iterations of classifiers that have been trained on the Homeland Security comments dataset. The notebooks chronicle the evolution of the models, documenting parameter adjustments, model performances, and experimental findings.
+- **Location**: [Classifier/](Classifier/README.md)
+- **Description**: A collection of Jupyter Notebooks documenting different iterations of classifiers trained on the Homeland Security comments dataset. It tracks the evolution of the models with details on parameter adjustments, performance metrics, and experimental results.
 - **Key Features**:
-  - Detailed iterative notebooks showcasing model experimentation.
-  - Visualization outputs and performance metrics to evaluate classifier accuracy.
-  - Preprocessing and data visualization steps to support reproducibility.
+  - Iterative model development with detailed documentation.
+  - Visual performance metrics, including accuracy, precision, recall, and F1 score.
+  - Comprehensive preprocessing and data visualization for reproducibility.
 
 ## Architecture and Components
 
@@ -68,9 +69,7 @@ The architecture of the Home Security Project is designed to promote modularity 
 *Further architectural diagrams and details can be added once more specific information is provided regarding the design decisions and data flows within the project.*
 
 
-## Installation and Setup
-
-### Prerequisites
+## Prerequisites
 
 Before setting up the repository locally, ensure that you have the following dependencies installed:
 
