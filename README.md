@@ -1,8 +1,8 @@
-# Home Security Project  
-*ADC Lab Repository*
+The **Home Security Project** is an initiative under ADC Lab that focuses on the collection and detection of dangerous comments. The primary objective of the project is to develop an automated, robust system capable of processing and analyzing large datasets of comments for potential risks. In doing so, the project leverages advanced natural language processing techniques to support both the collection and classification components, ensuring high-quality training data for further model refinement.
+
+This repository integrates components written in multiple programming languages, including Python for backend processing and TypeScript for frontend survey deployment. The project is segmented into several key modules, each designed to tackle a specific facet of the overall system.
 
 ## Table of Contents
-- [Overview](#overview)
 - [Background and Motivation](#background-and-motivation)
 - [Repository Structure](#repository-structure)
   - [OpenAI_v2.py](#openai_v2py)
@@ -12,15 +12,6 @@
 - [Contribution Guidelines](#contribution-guidelines)
 - [Acknowledgements](#acknowledgements)
 
----
-
-## Overview
-
-The **Home Security Project** is an initiative under ADC Lab that focuses on the collection and detection of dangerous comments. The primary objective of the project is to develop an automated, robust system capable of processing and analyzing large datasets of comments for potential risks. In doing so, the project leverages advanced natural language processing techniques to support both the collection and classification components, ensuring high-quality training data for further model refinement.
-
-This repository integrates components written in multiple programming languages, including Python for backend processing and TypeScript for frontend survey deployment. The project is segmented into several key modules, each designed to tackle a specific facet of the overall system.
-
----
 
 ## Background and Motivation
 
@@ -31,8 +22,6 @@ This project contains the following:
 - **Model Development**: Experimenting with various classifiers through iterative Jupyter Notebook experiments to optimize detection accuracy on the provided dataset.
 
 The insights derived from this project not only aid in immediate security responses but also contribute to improved training data for potential future deployments in related security domains.
-
----
 
 ## Repository Structure
 
@@ -67,8 +56,6 @@ The repository is divided into multiple directories and key files that serve spe
   - Visualization outputs and performance metrics to evaluate classifier accuracy.
   - Preprocessing and data visualization steps to support reproducibility.
 
----
-
 ## Architecture and Components
 
 The architecture of the Home Security Project is designed to promote modularity and flexibility. Key components include:
@@ -80,7 +67,6 @@ The architecture of the Home Security Project is designed to promote modularity 
 
 *Further architectural diagrams and details can be added once more specific information is provided regarding the design decisions and data flows within the project.*
 
----
 
 ## Installation and Setup
 
@@ -88,11 +74,10 @@ The architecture of the Home Security Project is designed to promote modularity 
 
 Before setting up the repository locally, ensure that you have the following dependencies installed:
 
-- **Python 3.12: Required for running the backend scripts and Jupyter Notebooks.
+- **Python 3.12**: Required for running the backend scripts and Jupyter Notebooks.
 - **Node.js and npm**: Required for running the TypeScript-based HomeLandSec application.
 - **Jupyter Notebook or JupyterLab**: Recommended for exploring and running the Classifier notebooks.
 
----
 
 ## Contribution Guidelines
 
@@ -103,7 +88,6 @@ Contributions are welcome. If you wish to contribute to the project, please foll
 3. **Submit a pull request** that includes a detailed description of your changes and rationale.
 4. **Discuss with the team** any major changes or feature proposals before implementation.
 
----
 
 ## Acknowledgements
 
