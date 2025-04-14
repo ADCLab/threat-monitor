@@ -2,8 +2,6 @@
 
 The **OpenAI_v2.py** script is designed for large-scale data collection by submitting comments and evaluation criteria to ChatGPT. The script returns an integer ranking for each comment, facilitating the automated detection of dangerous or high-risk content. It incorporates robust error handling, rate limit management, and asynchronous operations to ensure smooth and reliable execution.
 
----
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -14,13 +12,10 @@ The **OpenAI_v2.py** script is designed for large-scale data collection by submi
 - [Additional Information](#additional-information)
 - [License](#license)
 
----
-
 ## Overview
 
 The **OpenAI_v2.py** script is a key component for projects focusing on threat detection and data analysis. By processing and ranking a large volume of comments based on a specified criterion, this tool aids in building training datasets that help detect dangerous language or content. The script interacts with ChatGPT to perform its analysis, ensuring a high level of accuracy and adaptability to various criteria.
 
----
 
 ## Features
 
@@ -28,8 +23,7 @@ The **OpenAI_v2.py** script is a key component for projects focusing on threat d
 - **Asynchronous Operations**: Efficient handling of multiple requests concurrently to support large-scale data submissions.
 - **Error Handling**: Built-in mechanisms to manage exceptions and ensure the script continues running even when issues arise.
 - **Rate Limit Management**: Proactive rate limit handling to avoid API throttling and ensure consistent performance.
-
----
+  
 
 ## Installation and Setup
 
@@ -60,8 +54,7 @@ Follow these steps to set up and run the script:
    ```
 
    Replace `<your_openai_api_key>` and `<your_openai_azure_endpoint>` with your actual credentials.
-
----
+   
 
 ## Usage
 
@@ -73,7 +66,6 @@ python OpenAI_v2.py
 
 The script will process the uploaded comments using ChatGPT, applying the ranking criteria, and return an integer rating for each comment. Monitor the console output for any error messages or rate limit warnings.
 
----
 
 ## Configuration
 
@@ -81,7 +73,6 @@ The script will process the uploaded comments using ChatGPT, applying the rankin
 - **Rate Limit Management**: To avoid reaching API usage limits, the script implements pause and retry mechanisms. Adjust these parameters in the source code if you encounter frequent rate limiting.
 - **Asynchronous Operations**: By leveraging asynchronous programming techniques, the script is optimized for handling large datasets without significant performance degradation.
 
----
 
 ## Additional Information
 
